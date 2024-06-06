@@ -1,4 +1,4 @@
-# xxxx Working Group
+# Budget Working Group
 
 ## Purpose / Goal
 
