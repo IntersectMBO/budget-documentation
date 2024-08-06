@@ -1,15 +1,27 @@
 # Budget committee
 
+## What is the Budget Committee?
 
+The Budget Committee is an advisory committee that brings together relevant stakeholders from within the Cardano Ecosystem. The purpose of the budget committee is to use the knowledge and observations of these individuals in order to provide guidance, support, and oversight for Cardano’s annual budget processes.
 
-{% hint style="info" %}
-This committee is still in development, we will publish more information shortly.
-{% endhint %}
+## The Budget Committee is responsible for:
 
-### What is the Budget committee? <a href="#what-is-the-budget-committee" id="what-is-the-budget-committee"></a>
+* Provide Creation of and Management of Cardano’s annual budget process initiatives and policies while Aligning with the strategic directions of the Cardano Annual Budget
+* Manage working groups
+* Bucket Allocation Process
+* Annual Budget
+* DRep Relations
+* Audit and Oversight
+* Treasury management
+* Any other working group as needed for the committee’s business.
+* Evaluate the output of working groups and the Budget Committee
+* Communicate the work of the committee to the wider Cardano community
 
-The Budget committee will collate all costs for operating core Cardano and prepare an operating budget for review and approval by the community on an annual basis. The Budget committee aims to provide insight and transparency to the underlying costs to core Cardano.&#x20;
+## Goals of the Committee
 
-The Budget Committee will be provided an approved list of items on the shared backlog by a proposed Backlog committee. The Budget committee’s remit is to calculate an appropriate budget to assign to backlog scope items and manage a process to have a budget approved by the community to be paid out of the Treasury. \
-\
-The first Cardano budget will be presented ahead of the Annual Members Meeting (AMM) for community review. Intersect members will vote on the budget at the AMM, with on-chain ratification following.
+1. Transparency: All budget-related information, including revenues, expenditures, and financial reports, is openly accessible to stakeholders. This fosters trust and accountability.
+2. Collaboration: Stakeholders, including employees, partners, and sometimes the public, can contribute to the budgeting process. This input can be gathered through forums, surveys, or collaborative platforms.
+3. Flexibility: The budget process should allow for adjustments and iterations based on real-time feedback and changing circumstances. This makes the budget more adaptable and responsive.
+4. Community-Driven: The process should include the cardano community, and the Intersect membership.  They all should work together to develop and refine the budget.&#x20;
+5. Use of Tools: Any tooling used should be visible to the Cardano Community and free to them should they need to use them.
+6. Education and Training: Stakeholders are educated about the budgeting process and the tools used, enabling broader participation and better-informed contributions.

@@ -14,4 +14,4 @@
 
 ## Standards operational procedures
 
-* [Page](standards-operational-procedures/page.md)
+* [Charter](standards-operational-procedures/page.md)
