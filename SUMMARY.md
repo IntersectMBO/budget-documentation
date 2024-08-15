@@ -14,4 +14,4 @@
 
 ## Standards operational procedures
 
-* [Charter](standards-operational-procedures/page.md)
+* [Budget Committee Charter](standards-operational-procedures/page.md)
