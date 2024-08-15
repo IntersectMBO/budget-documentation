@@ -48,14 +48,6 @@ No Vote: In the event of a no vote or insufficient vote, topics or items will th
 
 A vote by a committee should be considered binding if it receives a simple majority of positive votes from a quorum consisting of at least two thirds of the committee members being present and participating in the vote
 
-## Roles / Responsibilities
-
-| Role           | Qualifications/Position                                                                                                                                                   | Responsibility                                                                                                                                                                             |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Chair          | Director of Intersect Board                                                                                                                                               | Serve as agenda setter, moving the committee in direction of it’s assigned or agreed objectives                                                                                            |
-| Secretary      | Member of Intersect Executive team                                                                                                                                        | Serves as liaison for committee, taking minutes, publications, and admin                                                                                                                   |
-| Voting Members | Initially appointed from upstanding community members. Voted on by Intersect Membership at the annual meeting, from a list of candidates vetted for their qualifications. | Serve as decision body composition, analysis work, and contribution to committee directly. The committee shall have not fewer than 3 and not more than 7 voting members at any given time. |
-
 ## Other Roles
 
 Roles that are beneficial to the business of the committee. These roles will act as subject matter experts to provide insight to the committee members. These roles will be filled in working groups with at least one voting member of the committee and roles as needed for the committee business.
