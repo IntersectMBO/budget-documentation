@@ -6,7 +6,7 @@
 * [Committee Members](about/committee-members/README.md)
   * [Roles and Responsibilities](about/committee-members/roles-and-responsibilities.md)
 * [Working Groups](about/working-groups.md)
-* [How to Join?](about/how-to-join.md)
+* [How to Join or Contact Us?](about/how-to-join-or-contact-us.md)
 
 ## Committee Meeting Notes
 
