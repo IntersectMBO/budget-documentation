@@ -15,3 +15,7 @@
 ## Standards operational procedures
 
 * [Budget Committee Charter](standards-operational-procedures/page.md)
+
+***
+
+* [A Comprehensive Annual Budget Process for Decentralized Governance](a-comprehensive-annual-budget-process-for-decentralized-governance.md)
