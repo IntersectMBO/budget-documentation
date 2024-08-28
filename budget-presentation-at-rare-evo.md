@@ -1,10 +1,13 @@
 ---
 description: >-
-  Here are the slides from the Rare Evo Blockchain Event that took place in Las
-  Vegas, NV on Saturday August 17th, 2024.
+  Here are the slides and the video from the Rare Evo Blockchain Event that took
+  place in Las Vegas, NV on Saturday August 17th, 2024.
+icon: screen-users
 ---
 
 # Budget Presentation at Rare Evo
+
+{% embed url="https://youtu.be/wwFb9CIyk9c" %}
 
 <figure><img src=".gitbook/assets/Initial Budget Process - Rare Evo Slides.png" alt=""><figcaption></figcaption></figure>
 

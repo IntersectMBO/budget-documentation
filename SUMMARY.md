@@ -10,11 +10,13 @@
 
 ## Committee Meeting Notes
 
-* [\[DD/MM/YYY\]](committee-meeting-notes/dd-mm-yyy.md)
+* [August Monthly Update](committee-meeting-notes/august-monthly-update.md)
+* [Weekly Catchup \[26/08/2024\]](committee-meeting-notes/dd-mm-yyy.md)
 
 ## Standards operational procedures
 
 * [Budget Committee Charter](standards-operational-procedures/page.md)
+* [Community Engagement Plan](standards-operational-procedures/community-engagement-plan.md)
 
 ***
 
