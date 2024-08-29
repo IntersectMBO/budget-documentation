@@ -1,13 +1,13 @@
 ---
+icon: screen-users
 description: >-
   Here are the slides and the video from the Rare Evo Blockchain Event that took
   place in Las Vegas, NV on Saturday August 17th, 2024.
-icon: screen-users
 ---
 
 # Budget Presentation at Rare Evo
 
-{% embed url="https://youtu.be/wwFb9CIyk9c" %}
+{% embed url="https://youtu.be/Qy6MtM10d0g" %}
 
 <figure><img src=".gitbook/assets/Initial Budget Process - Rare Evo Slides.png" alt=""><figcaption></figcaption></figure>
 
