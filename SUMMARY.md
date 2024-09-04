@@ -16,6 +16,10 @@
 ## Standards operational procedures
 
 * [Budget Committee Charter](standards-operational-procedures/page.md)
+* [Code of Conduct](standards-operational-procedures/code-of-conduct.md)
+* [Terms of Reference](standards-operational-procedures/terms-of-reference.md)
+* [Arbitration Process](standards-operational-procedures/arbitration-process.md)
+* [Escalation and Grievance Process](standards-operational-procedures/escalation-and-grievance-process.md)
 * [Community Engagement Plan](standards-operational-procedures/community-engagement-plan.md)
 
 ***
