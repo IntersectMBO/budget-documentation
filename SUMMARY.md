@@ -27,3 +27,4 @@
 
 * [A Comprehensive Annual Budget Process for Decentralized Governance](a-comprehensive-annual-budget-process-for-decentralized-governance.md)
 * [Budget Presentation at Rare Evo](budget-presentation-at-rare-evo.md)
+* [2025 Budget Process Timeline](2025-budget-process-timeline.md)
