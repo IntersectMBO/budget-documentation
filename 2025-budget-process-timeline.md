@@ -2,7 +2,7 @@
 
 
 
-<figure><img src=".gitbook/assets/Slide_1 (4).jpg" alt=""><figcaption><p>The 2025 Budget Ratification Timeline</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Slide_1_3 (2).jpg" alt=""><figcaption><p>The 2025 Budget Ratification Timeline</p></figcaption></figure>
 
 ## Important Update: Cardano Budget Process Timeline
 
