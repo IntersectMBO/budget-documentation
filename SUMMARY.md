@@ -13,6 +13,8 @@
 * [August Monthly Update](committee-meeting-notes/august-monthly-update.md)
 * [Weekly Catchup \[26/08/2024\]](committee-meeting-notes/dd-mm-yyy.md)
 * [Weekly Catchup \[03/09/2024\]](committee-meeting-notes/weekly-catchup-03-09-2024.md)
+* [Weekly Catchup \[10/09/2024\]](committee-meeting-notes/weekly-catchup-10-09-2024.md)
+* [Weekly Catchup \[17/09/2024\]](committee-meeting-notes/weekly-catchup-17-09-2024.md)
 
 ## Standards operational procedures
 
