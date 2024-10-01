@@ -1,5 +1,5 @@
-name: Budget GitBook Update
-description: Idea or request for some feature on the xxx Committee GitBook
+name: Budget Committee GitBook Update
+description: Idea or request for some feature on the Budget Committee GitBook
 labels: [':thought_balloon: idea']
 body:
   - type: markdown
