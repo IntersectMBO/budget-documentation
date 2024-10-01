@@ -30,7 +30,7 @@ Note that you might need to get approvals from all code owners (even though GitH
 ### Setup
 
 1. **Fork the repository:**
-   - Navigate to  https://github.com/Budget/Budget-committee-documentation
+   - Navigate to  https://github.com/IntersectMBO/Budget-committee-documentation
    - Press the `Fork` button and make a fork of the repository.
 
 2. **Clone the fork:**
