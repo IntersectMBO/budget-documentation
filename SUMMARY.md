@@ -10,11 +10,18 @@
 
 ## Committee Meeting Notes
 
-* [August Monthly Update](committee-meeting-notes/august-monthly-update.md)
-* [Weekly Catchup \[26/08/2024\]](committee-meeting-notes/dd-mm-yyy.md)
-* [Weekly Catchup \[03/09/2024\]](committee-meeting-notes/weekly-catchup-03-09-2024.md)
-* [Weekly Catchup \[10/09/2024\]](committee-meeting-notes/weekly-catchup-10-09-2024.md)
-* [Weekly Catchup \[17/09/2024\]](committee-meeting-notes/weekly-catchup-17-09-2024.md)
+* [2024 Updates](committee-meeting-notes/2024-updates/README.md)
+  * [August Monthly Update](committee-meeting-notes/2024-updates/august-monthly-update/README.md)
+    * [Weekly Catchup \[26/08/2024\]](committee-meeting-notes/2024-updates/august-monthly-update/dd-mm-yyy.md)
+  * [September Monthly Update](committee-meeting-notes/2024-updates/september-monthly-update/README.md)
+    * [Weekly Catchup \[23/09/2024\]](committee-meeting-notes/2024-updates/september-monthly-update/weekly-catchup-23-09-2024.md)
+    * [Weekly Catchup \[17/09/2024\]](committee-meeting-notes/2024-updates/september-monthly-update/weekly-catchup-17-09-2024.md)
+    * [Weekly Catchup \[10/09/2024\]](committee-meeting-notes/2024-updates/september-monthly-update/weekly-catchup-10-09-2024.md)
+    * [Weekly Catchup \[03/09/2024\]](committee-meeting-notes/2024-updates/september-monthly-update/weekly-catchup-03-09-2024.md)
+  * [October Monthly Update](committee-meeting-notes/2024-updates/october-monthly-update/README.md)
+    * [Weekly Catchup \[01/10/2024\]](committee-meeting-notes/2024-updates/october-monthly-update/weekly-catchup-01-10-2024.md)
+    * [Weekly Catchup \[07/10/2024\]](committee-meeting-notes/2024-updates/october-monthly-update/weekly-catchup-07-10-2024.md)
+    * [Weekly Catchup \[14/10/2024\]](committee-meeting-notes/2024-updates/october-monthly-update/weekly-catchup-14-10-2024.md)
 
 ## Standards operational procedures
 
