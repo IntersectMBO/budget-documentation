@@ -11,4 +11,20 @@ Criteria for joining the Budget Committee
 
 Please join us on the Intersect Discord server in the #budget-committee-area channel.
 
+## Telegram
+
+For informational releases only, join the Intersect Cardano Budget Committee Announcement channel: [https://t.me/IntersectCBCAnnounce](https://t.me/IntersectCBCAnnounce)&#x20;
+
+For Community Engagement join the Intersect Cardano Budget Committee Channel: [https://t.me/IntersectCBC](https://t.me/IntersectCBC)&#x20;
+
+## X
+
+On X please follow and interact with [https://x.com/IntersectCBC](https://x.com/IntersectCBC)&#x20;
+
+## YouTube
+
+On YouTube please follow and interact with [https://www.youtube.com/@IntersectCBC](https://www.youtube.com/@IntersectCBC)&#x20;
+
+
+
 You can also email us at [budget-committee@intersectmbo.org](mailto:budget-committee@intersectmbo.org)
