@@ -22,6 +22,8 @@
     * [Weekly Catchup \[01/10/2024\]](committee-meeting-notes/2024-updates/october-monthly-update/weekly-catchup-01-10-2024.md)
     * [Weekly Catchup \[07/10/2024\]](committee-meeting-notes/2024-updates/october-monthly-update/weekly-catchup-07-10-2024.md)
     * [Weekly Catchup \[14/10/2024\]](committee-meeting-notes/2024-updates/october-monthly-update/weekly-catchup-14-10-2024.md)
+    * [Weekly Catchup \[21/10/2024\]](committee-meeting-notes/2024-updates/october-monthly-update/weekly-catchup-21-10-2024.md)
+    * [Weekly Catchup \[28/10/2024\]](committee-meeting-notes/2024-updates/october-monthly-update/weekly-catchup-28-10-2024.md)
 
 ## Standards operational procedures
 

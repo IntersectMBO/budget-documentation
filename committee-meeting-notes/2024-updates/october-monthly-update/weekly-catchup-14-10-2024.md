@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Weekly Catchup \[14/10/2024]
 
 ### Agenda
