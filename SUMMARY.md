@@ -7,6 +7,7 @@
   * [Roles and Responsibilities](about/committee-members/roles-and-responsibilities.md)
 * [Working Groups](about/working-groups.md)
 * [How to Join or Contact Us?](about/how-to-join-or-contact-us.md)
+* [2025 Budget Process Timeline](about/2025-budget-process-timeline.md)
 
 ## Committee Meeting Notes
 
@@ -37,5 +38,7 @@
 ***
 
 * [A Comprehensive Annual Budget Process for Decentralized Governance](a-comprehensive-annual-budget-process-for-decentralized-governance.md)
-* [Budget Presentation at Rare Evo](budget-presentation-at-rare-evo.md)
-* [2025 Budget Process Timeline](2025-budget-process-timeline.md)
+* [Public Presentations](public-presentations/README.md)
+  * [Budget Presentation at Cardano Summit 2024](public-presentations/budget-presentation-at-cardano-summit-2024/README.md)
+    * [Cardano Summit Stop/Start/Continue Exercise](public-presentations/budget-presentation-at-cardano-summit-2024/cardano-summit-stop-start-continue-exercise.md)
+  * [Budget Presentation at Rare Evo 2024](public-presentations/budget-presentation-at-rare-evo.md)

@@ -1,3 +1,7 @@
+---
+icon: message-arrow-up-right
+---
+
 # How to Join or Contact Us?
 
 Criteria for joining the Budget Committee
