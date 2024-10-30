@@ -4,6 +4,8 @@ icon: screen-users
 
 # Budget Presentation at Cardano Summit 2024
 
+{% embed url="https://youtu.be/jx49XWfOJTU" %}
+
 <figure><img src="../../.gitbook/assets/Dubai Presentation - Final (27).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Dubai Presentation - Final (1).png" alt=""><figcaption></figcaption></figure>
