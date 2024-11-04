@@ -6,6 +6,12 @@
 * [Committee Members](about/committee-members/README.md)
   * [Roles and Responsibilities](about/committee-members/roles-and-responsibilities.md)
 * [Working Groups](about/working-groups.md)
+* [DRep Knowledge Journey](about/drep-knowledge-journey/README.md)
+  * [Stage 1: Introduction to the Budget Process](about/drep-knowledge-journey/stage-1-introduction-to-the-budget-process/README.md)
+    * [Budget Buckets](about/drep-knowledge-journey/stage-1-introduction-to-the-budget-process/budget-buckets.md)
+  * [Stage 2: DRep Role in the Budget Process](about/drep-knowledge-journey/stage-2-drep-role-in-the-budget-process.md)
+  * [Stage 3: Stages of the Budget Process](about/drep-knowledge-journey/stage-3-stages-of-the-budget-process.md)
+  * [Stage 4: Voting and Decision-Making](about/drep-knowledge-journey/stage-4-voting-and-decision-making.md)
 * [How to Join or Contact Us?](about/how-to-join-or-contact-us.md)
 * [2025 Budget Process Timeline](about/2025-budget-process-timeline.md)
 

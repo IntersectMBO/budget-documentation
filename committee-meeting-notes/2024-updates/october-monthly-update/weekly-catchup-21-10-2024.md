@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Weekly Catchup \[21/10/2024]
 
 The Budget Committee discussed three main topics:
