@@ -45,6 +45,9 @@
 
 * [A Comprehensive Annual Budget Process for Decentralized Governance](a-comprehensive-annual-budget-process-for-decentralized-governance.md)
 * [Public Presentations](public-presentations/README.md)
+  * [November Open Sessions](public-presentations/november-open-sessions/README.md)
+    * [Open Session #1](public-presentations/november-open-sessions/open-session-1.md)
+    * [Open Session #2](public-presentations/november-open-sessions/open-session-2.md)
   * [Budget Presentation at Cardano Summit 2024](public-presentations/budget-presentation-at-cardano-summit-2024/README.md)
     * [Cardano Summit Stop/Start/Continue Exercise](public-presentations/budget-presentation-at-cardano-summit-2024/cardano-summit-stop-start-continue-exercise.md)
   * [Budget Presentation at Rare Evo 2024](public-presentations/budget-presentation-at-rare-evo.md)
