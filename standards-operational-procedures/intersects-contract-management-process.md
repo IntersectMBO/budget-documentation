@@ -1,4 +1,4 @@
-# Intersects Contract Management process
+# Intersect's Contract Management process
 
 Here, you will find an overview of how Intersect's Core Services will manage contracts and committee budgets.
 
@@ -10,7 +10,7 @@ The purpose of Intersect’s Core Services is to support committee projects by m
 
 Below is a diagram showing how the Intersect Core Services Team has been set up to support the committees with their contracts and budgets.
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fo50OuflyxfUMOt8hHPn2%2Fuploads%2FHz21ygqCoDe66TZIZp5P%2FCore%20services%20(1).png?alt=media&#x26;token=1a540fab-7aa2-4c2e-8028-364e1b508fa7" alt=""><figcaption><p>Intersect Core Servers Team </p></figcaption></figure>
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fo50OuflyxfUMOt8hHPn2%2Fuploads%2FHz21ygqCoDe66TZIZp5P%2FCore%20services%20(1).png?alt=media&#x26;token=1a540fab-7aa2-4c2e-8028-364e1b508fa7" alt=""><figcaption><p>Intersect Core Services Team </p></figcaption></figure>
 
 ### Budget Management <a href="#budget-management" id="budget-management"></a>
 
@@ -41,7 +41,7 @@ Community members are welcome to volunteer to support the evaluation of a bid, p
 
 * Member of Intersect
 * Have applied to be an evaluator through the agreed process (TBC)
-* Member of the Committee if the Committee has decided to evaluate internally for particular circumstances (e.g. TSC)
+* Member of the Committee, if the Committee has decided to evaluate internally for particular circumstances (e.g. TSC)
 
 These members will constitute the evaluation review board (yet to be defined).
 
