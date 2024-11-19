@@ -11,7 +11,7 @@ Welcome to the official portal for Cardano's 2025 budgeting process. This platfo
 Our budget process adheres to the following foundational principles:
 
 * **Constitution Alignment**: Adherence to the interim constitution and Cardano's on-chain governance system
-* **Community Interest**: Acting in the interests of both Intersect members and the wider Ada-holding community
+* **Community Interest**: Acting in the interests of both Intersect members and the wider Cardano Ecosystem
 * **Facilitation Not Dictation**: Coordinating without controlling outcomes
 * **Open Access**: Avoiding gatekeeping of participation, funds, or processes
 * **Transparency**: Maintaining open documentation and communication throughout
