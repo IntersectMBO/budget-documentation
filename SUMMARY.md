@@ -13,7 +13,15 @@
   * [Stage 3: Stages of the Budget Process](about/drep-knowledge-journey/stage-3-stages-of-the-budget-process.md)
   * [Stage 4: Voting and Decision-Making](about/drep-knowledge-journey/stage-4-voting-and-decision-making.md)
 * [How to Join or Contact Us?](about/how-to-join-or-contact-us.md)
-* [2025 Budget Process Timeline](about/2025-budget-process-timeline.md)
+* [2025 Budget Process](about/2025-budget-process/README.md)
+  * [2025 Budget Process Timeline](about/2025-budget-process/2025-budget-process-timeline.md)
+  * [Proposals](about/2025-budget-process/proposals/README.md)
+    * [Product Committee](about/2025-budget-process/proposals/product-committee.md)
+    * [Technical Steering Committee](about/2025-budget-process/proposals/technical-steering-committee.md)
+    * [Open Source Committee](about/2025-budget-process/proposals/open-source-committee.md)
+    * [Membership & Community Committee](about/2025-budget-process/proposals/membership-and-community-committee.md)
+    * [Civics Committee](about/2025-budget-process/proposals/civics-committee.md)
+    * [Budget Committee](about/2025-budget-process/proposals/budget-committee.md)
 
 ## Committee Meeting Notes
 
