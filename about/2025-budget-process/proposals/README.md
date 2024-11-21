@@ -22,8 +22,8 @@ Each committee proposal is developed through:
 [product-committee.md](product-committee.md)
 {% endcontent-ref %}
 
-{% content-ref url="technical-steering-committee.md" %}
-[technical-steering-committee.md](technical-steering-committee.md)
+{% content-ref url="technical-steering-committee/" %}
+[technical-steering-committee](technical-steering-committee/)
 {% endcontent-ref %}
 
 {% content-ref url="open-source-committee.md" %}
