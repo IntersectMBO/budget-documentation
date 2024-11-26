@@ -19,6 +19,7 @@
     * [Product Committee](about/2025-budget-process/proposals/product-committee.md)
     * [Technical Steering Committee](about/2025-budget-process/proposals/technical-steering-committee/README.md)
       * [Draft TSC Budget Pres v2 Spainish](about/2025-budget-process/proposals/technical-steering-committee/draft-tsc-budget-pres-v2-spainish.md)
+      * [Draft TSC Budget v2 doc](about/2025-budget-process/proposals/technical-steering-committee/draft-tsc-budget-v2-doc.md)
     * [Open Source Committee](about/2025-budget-process/proposals/open-source-committee.md)
     * [Membership & Community Committee](about/2025-budget-process/proposals/membership-and-community-committee.md)
     * [Civics Committee](about/2025-budget-process/proposals/civics-committee.md)
