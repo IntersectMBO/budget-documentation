@@ -43,6 +43,11 @@
     * [Weekly Catchup \[14/10/2024\]](committee-meeting-notes/2024-updates/october-monthly-update/weekly-catchup-14-10-2024.md)
     * [Weekly Catchup \[21/10/2024\]](committee-meeting-notes/2024-updates/october-monthly-update/weekly-catchup-21-10-2024.md)
     * [Weekly Catchup \[28/10/2024\]](committee-meeting-notes/2024-updates/october-monthly-update/weekly-catchup-28-10-2024.md)
+  * [November Monthly Update](committee-meeting-notes/2024-updates/november-monthly-update/README.md)
+    * [November 4, 2024](committee-meeting-notes/2024-updates/november-monthly-update/november-4-2024.md)
+    * [November 18, 2024](committee-meeting-notes/2024-updates/november-monthly-update/november-18-2024.md)
+  * [December Monthly Update](committee-meeting-notes/2024-updates/december-monthly-update/README.md)
+    * [December 16, 2024](committee-meeting-notes/2024-updates/december-monthly-update/december-16-2024.md)
 
 ## Standards operational procedures
 
