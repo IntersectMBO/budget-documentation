@@ -50,6 +50,7 @@
     * [December 16, 2024](committee-meeting-notes/2024-updates/december-monthly-updates/december-16-2024.md)
 * [2025 meeting notes](committee-meeting-notes/2025-meeting-notes/README.md)
   * [Jan 6, 2025 Budget Comm minutes](committee-meeting-notes/2025-meeting-notes/jan-6-2025-budget-comm-minutes.md)
+  * [Jan 13, 2025 Budget Comm minutes](committee-meeting-notes/2025-meeting-notes/jan-13-2025-budget-comm-minutes.md)
 
 ## Standards operational procedures
 
