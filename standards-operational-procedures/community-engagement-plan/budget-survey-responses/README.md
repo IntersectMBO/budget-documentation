@@ -83,7 +83,7 @@ The survey results highlight key priorities that will shape Intersect’s 2025 b
 
 For those interested in reviewing the raw survey data, see below.
 
-{% file src="../../.gitbook/assets/Anonymized_Budget_Survey_Responses (1).csv" %}
+{% file src="../../../.gitbook/assets/Anonymized_Budget_Survey_Responses (1).csv" %}
 
 ### Feedback from open calls
 

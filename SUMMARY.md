@@ -60,7 +60,8 @@
 * [Arbitration Process](standards-operational-procedures/arbitration-process.md)
 * [Escalation and Grievance Process](standards-operational-procedures/escalation-and-grievance-process.md)
 * [Community Engagement Plan](standards-operational-procedures/community-engagement-plan.md)
-  * [Budget survey responses](standards-operational-procedures/community-engagement-plan/budget-survey-responses.md)
+  * [Budget survey responses](standards-operational-procedures/community-engagement-plan/budget-survey-responses/README.md)
+    * [Anonymized data](standards-operational-procedures/community-engagement-plan/budget-survey-responses/anonymized-data.md)
 * [Intersect's Contract Management process](standards-operational-procedures/intersects-contract-management-process.md)
 
 ***
