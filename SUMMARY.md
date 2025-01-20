@@ -75,8 +75,6 @@
     * [Open Session #6](public-presentations/november-open-sessions/open-session-6.md)
     * [Open Session #7](public-presentations/november-open-sessions/open-session-7.md)
     * [Open Session #8](public-presentations/november-open-sessions/open-session-8.md)
-    * [Page 1](public-presentations/november-open-sessions/page-1.md)
-  * [Page](public-presentations/page.md)
   * [Budget Presentation at Cardano Summit 2024](public-presentations/budget-presentation-at-cardano-summit-2024/README.md)
     * [Cardano Summit Stop/Start/Continue Exercise](public-presentations/budget-presentation-at-cardano-summit-2024/cardano-summit-stop-start-continue-exercise.md)
   * [Budget Presentation at Rare Evo 2024](public-presentations/budget-presentation-at-rare-evo.md)
