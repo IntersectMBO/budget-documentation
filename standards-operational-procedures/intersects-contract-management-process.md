@@ -1,16 +1,16 @@
 # Intersect's Contract Management process
 
-Here, you will find an overview of how Intersect's Core Services will manage contracts and committee budgets.
+Here, you will find an overview of how Intersect's Operational Services will manage contracts and committee budgets.
 
 ### **Introduction** <a href="#introduction" id="introduction"></a>
 
-The purpose of Intersect’s Core Services is to support committee projects by managing contract processes and overseeing the budget. Our approach ensures compliance, transparency, and effective management of resources, enabling committees to focus on their objectives. **This process will be implemented from January 2025.**
+The purpose of Intersect’s Operational Services is to support committee projects by managing contract processes and overseeing the budget. Our approach ensures compliance, transparency, and effective management of resources, enabling committees to focus on their objectives. **This process will be implemented from January 2025.**
 
-### Core Services Team Structure <a href="#core-services-team-structure" id="core-services-team-structure"></a>
+### Operational Services Team Structure <a href="#core-services-team-structure" id="core-services-team-structure"></a>
 
-Below is a diagram showing how the Intersect Core Services Team has been set up to support the committees with their contracts and budgets.
+Below is a diagram showing how the Intersect Operational Services Team has been set up to support the committees with their contracts and budgets.
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fo50OuflyxfUMOt8hHPn2%2Fuploads%2FHz21ygqCoDe66TZIZp5P%2FCore%20services%20(1).png?alt=media&#x26;token=1a540fab-7aa2-4c2e-8028-364e1b508fa7" alt=""><figcaption><p>Intersect Core Services Team </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Operational Services Org Chart.png" alt=""><figcaption></figcaption></figure>
 
 ### Budget Management <a href="#budget-management" id="budget-management"></a>
 
