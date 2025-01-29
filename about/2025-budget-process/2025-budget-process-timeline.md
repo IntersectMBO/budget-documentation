@@ -4,48 +4,67 @@ icon: timeline-arrow
 
 # 2025 Budget Process Timeline
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-
-<figure><img src="../../.gitbook/assets/Slide_1_3 (2).jpg" alt=""><figcaption><p>The 2025 Budget Ratification Timeline</p></figcaption></figure>
+## Intersect Governance Action Plan
 
 ### Process Timeline
 
-#### Phase 1: Initial Proposals (August 1 - October 21, 2024)
+#### Phase 1
 
-* Open submission period for project proposals
-* Proposals must align with interim constitution guidelines
-* All budgets to be denominated in ADA
+_**1st January – 31st January 2025**_
 
-#### Phase 2: Proposal Evaluation (September 15 - December 15, 2024)
+Hard Fork:
 
-* Concurrent review and revision period
-* Project leaders and committees can modify proposals
-* Community feedback integration
-* Budget Committee compilation and analysis
+* &#x20;29th January – HardFork Ratification
 
-#### Phase 3: Summit & Consultation (October - December 2024)
+Budget:
 
-* **Cardano Summit Presentation**: October 23, 2024
-  * Presentation of consolidated budget proposal
-  * Community engagement sessions
-  * Live feedback and discussion
-* **dRep and CC Socialization**: October 26 2024 - January 15, 2025
-  * Delegated Representatives review period
-  * Constitutional Committee engagement
-  * Proposal refinement based on feedback
+* Budget proposal generated.
 
-#### Phase 4: Treasury Governance (December 2024)
+#### Phase 2
 
-* **Net Change Limit Process**: December 5 - 20, 2024
-  * DRep voting on treasury withdrawal limits
-  * Establishment of fiscal parameters
+_**1st February – 10th April 2025**_
 
-#### Phase 5: Final Review & Implementation (Q1 2025)
+Constitution:
+
+* New Constitution Action will be ratified & enacted
+* Constitutional Committee engagement.
+* 10th March - Dreps are required to vote on the Info Action
+
+Budget:
+
+* Presentation of consolidated budget proposal
+* Community engagement sessions
+* Live feedback and discussion
+* Delegated Representatives review period
+* Proposal refinement based on feedback
+* Budget Info is released for DReps and ICC to review and vote on
+* Committees will define the requirements for each budget line item
+* DRep voting on treasury withdrawal limits
+* Establishment of fiscal parameters
+
+Procurement:
+
+* March: The tendering process will open for suppliers to submit responses to RFPs; however, no contracts will be awarded until funds are released from the treasury. _(Note: Suppliers submit responses at their own risk.)_
+
+#### Phase 3
+
+_**11th April – 30th June 2025**_
+
+Budget:
 
 * Final proposal refinements
 * On-chain submission preparation
-* Community voting (requiring >51% DRep active stake approval)
+* 15th April - 17th May: Community voting (requiring >51% DRep active stake approval)
+* 23rd May - Final vote
 * Implementation of approved allocations via treasury withdrawal
+
+#### Phase 5
+
+_1st July Onwards ->_
+
+* Funds will be released, and contract awards will commence.
 
 \
 \
