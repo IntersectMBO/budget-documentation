@@ -26,6 +26,7 @@
     * [Membership & Community Committee](about/2025-budget-process/proposals/membership-and-community-committee.md)
     * [Civics Committee](about/2025-budget-process/proposals/civics-committee.md)
     * [Budget Committee](about/2025-budget-process/proposals/budget-committee.md)
+  * [Draft - Net Change Limit Info Action](about/2025-budget-process/draft-net-change-limit-info-action.md)
 
 ## Committee Meeting Notes
 
