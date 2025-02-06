@@ -14,6 +14,10 @@ Lawrence presented the budget spreadsheet structure, explaining columns for ID t
 
 Rita raised concerns about high-level budget numbers without detailed breakdowns. Lawrence explained the challenges of obtaining granular details due to committees' learning the budget process while creating a budget.  The budget committee needs to provide open training sessions to all interested parties so they can understand the process and the importance of a budget process.
 
+Lloyd noted that the Net Change Limit was due to be posted on Monday.  Lawrence asked the attendees if they felt the draft budget should be released.
+
+**Motion taken by unanimous decision** to hold off releasing the budget until additional detail has been collated in the detailed breakdown.
+
 ### Committee Review Process
 
 The group discussed the review process for committee budgets, with Lawrence suggesting that committees present their budget requests to the budget committee for review.  Lloyd mentioned that the civics committee has been responsive in addressing feedback.
