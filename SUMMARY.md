@@ -72,6 +72,9 @@
 
 * [A Comprehensive Annual Budget Process for Decentralized Governance](a-comprehensive-annual-budget-process-for-decentralized-governance.md)
 * [Public Presentations](public-presentations/README.md)
+  * [Cardano Budget Process Open Calls](public-presentations/cardano-budget-process-open-calls/README.md)
+    * [Cardano Budget Process AMA Session #2](public-presentations/cardano-budget-process-open-calls/cardano-budget-process-ama-session-2/README.md)
+      * [Page 1](public-presentations/cardano-budget-process-open-calls/cardano-budget-process-ama-session-2/page-1.md)
   * [November Open Sessions](public-presentations/november-open-sessions/README.md)
     * [Open Session #1](public-presentations/november-open-sessions/open-session-1.md)
     * [Open Session #2](public-presentations/november-open-sessions/open-session-2.md)

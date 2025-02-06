@@ -32,6 +32,8 @@ Lloyd mentioned that Zoom and online sessions will also be set up, but discussio
 
 ## Action Items
 
+**Motion taken by unanimous decision** to hold off releasing the budget until additional detail has been collated in the detailed breakdown.
+
 **Motion taken by unanimous decision** to set up sessions with the committees for the chair (and whom they deem necessary) to process their budgets to the budget committee.
 
 Lawrence will create a Google sheet for budget committee comments and feedback for the committees.
