@@ -26,7 +26,7 @@ description: 'Objective: Understand the purpose and structure of Cardano’s bud
 
 <summary>2025 Budget Overview  </summary>
 
-🔹Estimated budget: 300m - 500m [$ADA](https://x.com/search?q=%24ADA\&src=cashtag\_click) &#x20;
+🔹Estimated budget: 200m - 500m [$ADA](https://x.com/search?q=%24ADA\&src=cashtag_click) &#x20;
 
 🔹Each committee has a dedicated budget, overseen by the Budget Committee for efficient and impactful fund use.
 
@@ -36,7 +36,7 @@ description: 'Objective: Understand the purpose and structure of Cardano’s bud
 
 <summary>Pre-requisites for a Treasury Withdrawal </summary>
 
-🔹Net Change Limit: A defined cap on the maximum ADA that can be withdrawn within a set period, specified via an info action, e.g., 73 epochs and 300m [$ADA](https://x.com/search?q=%24ADA\&src=cashtag\_click)&#x20;
+🔹Net Change Limit: A defined cap on the maximum ADA that can be withdrawn within a set period, specified via an info action, e.g., 73 epochs and 350m [$ADA](https://x.com/search?q=%24ADA\&src=cashtag_click)&#x20;
 
 🔹Budget Info Action: A detailed budget breakdown must be approved before any treasury withdrawal can occur.
 
@@ -46,7 +46,7 @@ description: 'Objective: Understand the purpose and structure of Cardano’s bud
 
 <summary>Leveraging Funds in Voting</summary>
 
-🔹 $ADA from budget may be used in voting processes. Intersect currently does not recommend voting with the ADA, and will follow DRep recommendations as to when voting would be appropriate with the ADA withdrawn via treasury action.
+🔹 $ADA from the budget may be used in voting processes. Intersect currently does not recommend voting with the ADA, and will follow DRep recommendations as to when voting would be appropriate with the ADA withdrawn via treasury action.
 
 🔹 Decisions ultimately rest with Intersect members, the DReps, and the Constitutional Committee, keeping power in the hands of the community
 
