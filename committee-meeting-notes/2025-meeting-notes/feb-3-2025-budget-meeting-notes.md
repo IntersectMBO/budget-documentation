@@ -26,7 +26,7 @@ The group discussed the review process for committee budgets, with Lawrence sugg
 
 ### Event Planning
 
-Lloyd proposed the comms plan and proposed a potential gathering in Denver on February 21st-22nd.  Nothing has been confirmed, as costs and options are being discussed.  Mercy mentioned that lessons need to be learned from the Constitution Event visa issue.  Lloyd mentioned that our planning should include multiple sessions to limit any visa risks.  Lloyd also mentioned that ALL DReps should be included in the process.  The attendees agreed that if any funding was available for a face-to-face meeting, then it must include a way for lower deligated DReps to be invited.  The attendees discussed a lottery still an option, along with all with a specific amount of ada.  No decisions were taken.
+Lloyd proposed the comms plan and proposed a potential gathering in Denver on February 21st-22nd.  Nothing has been confirmed, as costs and options are being discussed.  Mercy mentioned that lessons need to be learned from the Constitution Event visa issue.  Lloyd mentioned that our planning should include multiple sessions to limit any visa risks.  Lloyd also mentioned that ALL DReps should be included in the process.  The attendees agreed that if any funding was available for a face-to-face meeting, then it must include a way for lower deligated DReps to be invited.  The attendees discussed a lottery-style option to ensure all DReps could be included.  No decisions were taken.
 
 Lloyd mentioned that Zoom and online sessions will also be set up, but discussions are underway to seek funding to cover the cost of any events.  Should funding be available, then in-person sessions could be arranged via the hubs.  No decision was taken until funds were confirmed.
 
