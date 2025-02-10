@@ -18,7 +18,7 @@ The Net Change Limit shall remain in effect until such time as a new Net Change 
 
 ### Rationale
 
-The Net Change Limit shall commence in January 2025 and shall remain in effect for a duration of 73 epochs, concluding in December 2025.
+The Net Change Limit will start at the beginning of Epoch 532 and progress for 72 epochs, concluding at the end of Epoch 604, December 2025.
 
 The Net Change Limit for this period shall be set at 350,000,000,000,000 lovelaces (350M ADA). This limit shall be applied in the assessment of both budget actions and treasury withdrawal actions to ensure compliance with Article IV of the Constitution and the Treasury Withdrawal Guardrails specified in Appendix I of the Constitution.
 
