@@ -19,16 +19,16 @@
 
 ## Budget proposal
 
-* [2025 Cardano Budget Proposal - A Cardano Blockchain Ecosystem Budget](budget-proposal/2025-cardano-budget-proposal-a-cardano-blockchain-ecosystem-budget/README.md)
-  * [Core Budget](budget-proposal/2025-cardano-budget-proposal-a-cardano-blockchain-ecosystem-budget/core-budget/README.md)
-    * [Draft TSC Budget Pres v2 Spainish](budget-proposal/2025-cardano-budget-proposal-a-cardano-blockchain-ecosystem-budget/core-budget/draft-tsc-budget-pres-v2-spainish.md)
-    * [Draft TSC Budget Pres v2 German](budget-proposal/2025-cardano-budget-proposal-a-cardano-blockchain-ecosystem-budget/core-budget/draft-tsc-budget-pres-v2-german.md)
-    * [Draft TSC Budget Pres v2 Japanese](budget-proposal/2025-cardano-budget-proposal-a-cardano-blockchain-ecosystem-budget/core-budget/draft-tsc-budget-pres-v2-japanese.md)
-    * [Draft TSC Budget Pres v2 English](budget-proposal/2025-cardano-budget-proposal-a-cardano-blockchain-ecosystem-budget/core-budget/draft-tsc-budget-pres-v2-english.md)
-  * [Research Budget](budget-proposal/2025-cardano-budget-proposal-a-cardano-blockchain-ecosystem-budget/research-budget.md)
-  * [Governance Support Budget](budget-proposal/2025-cardano-budget-proposal-a-cardano-blockchain-ecosystem-budget/governance-support-budget.md)
-  * [Innovation Budget](budget-proposal/2025-cardano-budget-proposal-a-cardano-blockchain-ecosystem-budget/innovation-budget.md)
-  * [Growth and Marketing Budget](budget-proposal/2025-cardano-budget-proposal-a-cardano-blockchain-ecosystem-budget/growth-and-marketing-budget.md)
+* [2025 Cardano Budget Proposal - A Cardano Blockchain Ecosystem Budget](budget-proposal/2025-cardano-budget-proposal/README.md)
+  * [Core Budget](budget-proposal/2025-cardano-budget-proposal/core-budget/README.md)
+    * [Draft TSC Budget Pres v2 Spainish](budget-proposal/2025-cardano-budget-proposal/core-budget/draft-tsc-budget-pres-v2-spainish.md)
+    * [Draft TSC Budget Pres v2 German](budget-proposal/2025-cardano-budget-proposal/core-budget/draft-tsc-budget-pres-v2-german.md)
+    * [Draft TSC Budget Pres v2 Japanese](budget-proposal/2025-cardano-budget-proposal/core-budget/draft-tsc-budget-pres-v2-japanese.md)
+    * [Draft TSC Budget Pres v2 English](budget-proposal/2025-cardano-budget-proposal/core-budget/draft-tsc-budget-pres-v2-english.md)
+  * [Research Budget](budget-proposal/2025-cardano-budget-proposal/research-budget.md)
+  * [Governance Support Budget](budget-proposal/2025-cardano-budget-proposal/governance-support-budget.md)
+  * [Innovation Budget](budget-proposal/2025-cardano-budget-proposal/innovation-budget.md)
+  * [Growth and Marketing Budget](budget-proposal/2025-cardano-budget-proposal/growth-and-marketing-budget.md)
 
 ## Committee Meeting Notes
 

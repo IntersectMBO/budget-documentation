@@ -7,7 +7,7 @@ description: >-
 # 2025 Cardano Budget Proposal - A Cardano Blockchain Ecosystem Budget
 
 {% hint style="info" %}
-You can provide feedback on this proposal on the Cardano Forum here
+You can provide feedback on this proposal on the Cardano Forum [here](https://forum.cardano.org/t/a-cardano-blockchain-ecosystem-budget/143049)
 {% endhint %}
 
 
@@ -210,7 +210,7 @@ You can read more about the [delivery assurance function](https://intersectmbo.o
 
 ## 6. Budget Bucket proposals
 
-Below is a summary of the budget requests from each committee. All figures are indicative and subject to change based on community feedback and on-chain approvals. In total, the current figures indicate a budget of ₳227,154,132m for 2025. As a result, some budgets reflect a six-month plan.
+Below is a summary of the budget requests from each committee. All figures are indicative and subject to change based on community feedback and on-chain approvals. In total, the current figures indicate a budget of ₳232,058,672 for 2025. As a result, some budgets reflect a six-month plan.
 
 ### **Cardano Core Budget**
 
@@ -231,7 +231,7 @@ Below is a summary of the budget requests from each committee. All figures are i
 
 ### **Cardano Growth & Marketing Budget**
 
-* Growth & Marketing Committee: ₳15,490,000
+* Growth & Marketing Committee: ₳20,394,540
 * More details [here](growth-and-marketing-budget.md)&#x20;
 
 ### **Cardano Innovation Budget**
