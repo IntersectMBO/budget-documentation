@@ -1,4 +1,4 @@
-# Proposals
+# 2025 Cardano Budget proposal
 
 ### Overview
 
@@ -18,27 +18,27 @@ Each committee proposal is developed through:
 
 ### Committee Proposals
 
-{% content-ref url="product-committee.md" %}
-[product-committee.md](product-committee.md)
+{% content-ref url="research-budget.md" %}
+[research-budget.md](research-budget.md)
 {% endcontent-ref %}
 
-{% content-ref url="technical-steering-committee/" %}
-[technical-steering-committee](technical-steering-committee/)
+{% content-ref url="core-budget/" %}
+[core-budget](core-budget/)
 {% endcontent-ref %}
 
-{% content-ref url="open-source-committee.md" %}
-[open-source-committee.md](open-source-committee.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="membership-and-community-committee.md" %}
-[membership-and-community-committee.md](membership-and-community-committee.md)
+{% content-ref url="innovation-budget.md" %}
+[innovation-budget.md](innovation-budget.md)
 {% endcontent-ref %}
 
-{% content-ref url="civics-committee.md" %}
-[civics-committee.md](civics-committee.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="budget-committee.md" %}
-[budget-committee.md](budget-committee.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 

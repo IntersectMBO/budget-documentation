@@ -15,18 +15,20 @@
 * [How to Join or Contact Us?](about/how-to-join-or-contact-us.md)
 * [2025 Budget Process](about/2025-budget-process/README.md)
   * [2025 Budget Process Timeline](about/2025-budget-process/2025-budget-process-timeline.md)
-  * [Proposals](about/2025-budget-process/proposals/README.md)
-    * [Product Committee](about/2025-budget-process/proposals/product-committee.md)
-    * [Technical Steering Committee](about/2025-budget-process/proposals/technical-steering-committee/README.md)
-      * [Draft TSC Budget Pres v2 Spainish](about/2025-budget-process/proposals/technical-steering-committee/draft-tsc-budget-pres-v2-spainish.md)
-      * [Draft TSC Budget Pres v2 German](about/2025-budget-process/proposals/technical-steering-committee/draft-tsc-budget-pres-v2-german.md)
-      * [Draft TSC Budget Pres v2 Japanese](about/2025-budget-process/proposals/technical-steering-committee/draft-tsc-budget-pres-v2-japanese.md)
-      * [Draft TSC Budget Pres v2 English](about/2025-budget-process/proposals/technical-steering-committee/draft-tsc-budget-pres-v2-english.md)
-    * [Open Source Committee](about/2025-budget-process/proposals/open-source-committee.md)
-    * [Membership & Community Committee](about/2025-budget-process/proposals/membership-and-community-committee.md)
-    * [Civics Committee](about/2025-budget-process/proposals/civics-committee.md)
-    * [Budget Committee](about/2025-budget-process/proposals/budget-committee.md)
   * [Draft - Net Change Limit Info Action](about/2025-budget-process/draft-net-change-limit-info-action.md)
+
+## Budget proposal
+
+* [2025 Cardano Budget proposal](budget-proposal/2025-cardano-budget-proposal/README.md)
+  * [Research Budget](budget-proposal/2025-cardano-budget-proposal/research-budget.md)
+  * [Core Budget](budget-proposal/2025-cardano-budget-proposal/core-budget/README.md)
+    * [Draft TSC Budget Pres v2 Spainish](budget-proposal/2025-cardano-budget-proposal/core-budget/draft-tsc-budget-pres-v2-spainish.md)
+    * [Draft TSC Budget Pres v2 German](budget-proposal/2025-cardano-budget-proposal/core-budget/draft-tsc-budget-pres-v2-german.md)
+    * [Draft TSC Budget Pres v2 Japanese](budget-proposal/2025-cardano-budget-proposal/core-budget/draft-tsc-budget-pres-v2-japanese.md)
+    * [Draft TSC Budget Pres v2 English](budget-proposal/2025-cardano-budget-proposal/core-budget/draft-tsc-budget-pres-v2-english.md)
+  * [Innovation Budget](budget-proposal/2025-cardano-budget-proposal/innovation-budget.md)
+  * [Governance Support Budget](budget-proposal/2025-cardano-budget-proposal/governance-support-budget.md)
+  * [Growth and Marketing Budget](budget-proposal/2025-cardano-budget-proposal/growth-and-marketing-budget.md)
 
 ## Committee Meeting Notes
 
