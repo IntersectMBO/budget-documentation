@@ -7,7 +7,7 @@ description: >-
 # Growth and Marketing Budget
 
 {% hint style="info" %}
-You can provide feedback on this proposal on the Cardano Forum here
+You can provide feedback on this proposal on the Cardano Forum [here](https://forum.cardano.org/t/cardano-growth-and-marketing-budget-proposal/143055)
 {% endhint %}
 
 {% hint style="warning" %}
