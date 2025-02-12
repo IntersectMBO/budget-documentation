@@ -210,11 +210,11 @@ You can read more about the [delivery assurance function](https://intersectmbo.o
 
 ## 6. Budget Bucket proposals
 
-Below is a summary of the budget requests from each committee. All figures are indicative and subject to change based on community feedback and on-chain approvals. In total, the current figures indicate a budget of ₳232,058,672 for 2025. As a result, some budgets reflect a six-month plan.
+Below is a summary of the budget requests from each committee. All figures are indicative and subject to change based on community feedback and on-chain approvals. In total, the current figures indicate a budget of ₳248,121,755 for 2025. As a result, some budgets reflect a six-month plan.
 
 ### **Cardano Core Budget**
 
-* Technical Steering Committee: ₳85,456,317
+* Technical Steering Committee: ₳101,419,400
 * Open Source Committee: ₳3,785,000
 * More details [here](core-budget/)
 
