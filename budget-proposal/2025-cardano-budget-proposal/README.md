@@ -112,12 +112,10 @@ In parallel, the Budget committee launched a survey to gather input on community
 The results and key learnings from phase one, including any pivots, suggested:
 
 * Present multiple budgets for community consideration rather than a single, larger budget proposal. Accordingly, each funding track (or "bucket") should have its own budget Info Action to be voted on by the ICC and DReps. Once a funding track (as an Info Action) is ratified by the ICC and DReps, corresponding Treasury Withdrawal Actions can follow.
-*
   * For example, if there are five funding tracks, there will be five Info Actions and at least five Treasury Withdrawal Actions submitted on-chain for community consideration.
 * The Net-Change-Limit should not exceed Treasury income for the same period. For instance, in 2025, the Treasury is projected to grow by approximately ₳350 million. A budget proposal submitted on behalf of members and committees at Intersect should not exceed this amount. Furthermore, the Net-Change-Limit should leave ample headroom for budgets that are not part of any initial Intersect proposal to be submitted on-chain.
 * Emphasize radical transparency in accounting and auditing of Treasury funds, including the use of smart contracts and on-chain verifiability wherever beneficial.
 * Carefully consider and document how any surplus or unspent ADA can be reutilized, reinvested, or returned to the Treasury.
-*
   * Note: Any solution must comply with the interim and/or delegate-approved Constitution (whichever is in effect as per CIP-1694).
 
 ### **Phase 2 - February to May 2025**
@@ -173,7 +171,7 @@ This approach aims to:
 * Ensure funds remain available for ongoing and future initiatives
 * Provide clarity and predictability for all stakeholders
 
-The Budget Committee has prepared the draft [Net-Change-Limit metadata](https://committees.docs.intersectmbo.org/intersect-budget-committee/about/2025-budget-process/draft-net-change-limit-info-action), which can be found here for feedback. In the coming days, we will publish it on GovTool.
+The Budget Committee has prepared the draft Net-Change-Limit metadata, which can be found [here](https://committees.docs.intersectmbo.org/intersect-budget-committee/about/2025-budget-process/draft-net-change-limit-info-action) review and [here](https://forum.cardano.org/t/net-change-limit/143118) for feedback. In the coming days, we will publish it on GovTool.
 
 ## 5. Work packages
 
