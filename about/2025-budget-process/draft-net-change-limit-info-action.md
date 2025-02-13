@@ -1,5 +1,27 @@
 # Draft - Net Change Limit Info Action
 
+## Introduction
+
+Cardano's first Net-Change-Limit To maintain the sustainability and stability of Cardano's treasury, a Net-Change-Limit has been suggested, which would, if approved, set the constitutional and democratic mandate for the amount of ada that can be withdrawn from the Treasury over the 2025 period.
+
+Between January and December 2025, spanning approximately 73 epochs, the total indicative withdrawal limit has been suggested at 350 million ADA. This figure aligns with the projected treasury growth for 2025, estimated at approximately 350 million ADA, positioning it as a balanced budget framework - funding the ecosystem for 2025 and leaving net Treasury resources unchanged from 2024 levels.
+
+The intent is to ensure that expenditures remain sustainable while enabling strategic investment in ecosystem growth. This figure remains subject to further review and on-chain approval as the ecosystem seeks to balance prudence with a forward-looking approach to treasury allocation.
+
+This approach aims to:
+
+* Balance ecosystem growth with responsible treasury management
+* Ensure funds remain available for ongoing and future initiatives
+* Provide clarity and predictability for all stakeholders
+
+The Budget Committee has prepared the draft Net-Change-Limit metadata, which can be found below for review and here for feedback. In the coming days, we will publish it on GovTool.
+
+
+
+***
+
+## Metadata
+
 ### Abstract
 
 As part of the budget approval process, it is necessary to establish a Net Change Limit. This serves as an opportunity for all governance stakeholders to formally express their positions regarding the proposed Net Change Limit, ensuring transparency, accountability, and alignment with organizational objectives.
