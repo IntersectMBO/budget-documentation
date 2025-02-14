@@ -208,7 +208,7 @@ You can read more about the [delivery assurance function](https://intersectmbo.o
 
 ## 6. Budget Bucket proposals
 
-Below is a summary of the budget requests from each committee. All figures are indicative and subject to change based on community feedback and on-chain approvals. In total, the current figures indicate a budget of ₳266,788,078 for 2025. As a result, some budgets reflect a six-month plan.
+Below is a summary of the budget requests from each committee. All figures are indicative and subject to change based on community feedback and on-chain approvals. In total, the current figures indicate a budget of ₳263,607,544 for 2025. As a result, some budgets reflect a six-month plan.
 
 ### **Cardano Core Budget**
 
@@ -234,7 +234,7 @@ Below is a summary of the budget requests from each committee. All figures are i
 
 ### **Cardano Innovation Budget**
 
-* Membership & Community Committee: ₳80,707,334
+* Membership & Community Committee: ₳77,526,800
 * More details [here](innovation-budget.md)
 
 ### **Funding Intersect**&#x20;

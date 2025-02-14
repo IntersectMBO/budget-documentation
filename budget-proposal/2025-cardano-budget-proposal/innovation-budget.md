@@ -44,11 +44,11 @@ This proposal was defined by the Membership and Community committee via communit
 
 The proposed budget for the upcoming fiscal period will encompass all funding requests made by the Members and Community Committee (MCC). The main goal of the innovation budget is to enhance community engagement by organizing events, forums and online platforms,  all facilitated by Intersect. It encourages collaboration, knowledge-sharing, and meaningful contributions whilst ensuring members feel connected and valued. The MCC oversees Intersect’s Membership; In turn, the MCC manages the tiered membership levels with tailored benefits and participation opportunities. This promotes inclusivity and aligning engagement with members’ interests. Additionally, the MCC manages the Community Incentive Program. The goal of the program is to recognize and motivate valuable community contributions; This is to drive and strengthen active Cardano community participation whilst fostering innovation.
 
-The proposed Innovation Budget is 80,952,667 ada. This is to be managed by two Treasury withdrawal actions using smart contract:
+The proposed Innovation Budget is ₳ 77,526,800. This is to be managed by two Treasury withdrawal actions using smart contract:
 
 | June 2025 | ₳ 75,500,000 - Catalyst (includes 3, 20m ada funds and costs associated) |
 | --------- | ------------------------------------------------------------------------ |
-| June 2025 | ₳ 5,452,667 - MCC                                                        |
+| June 2025 | ₳ 2,026,800 - MCC                                                        |
 
 ***
 
@@ -284,12 +284,12 @@ Features:
 
 CAT4: Hardening Hermes:
 
-Hermes is the underlying infrastructure for decentralising UX, enabling high-availability of an application engine that provides distributed storage and event processing for voting events, proposals, and role-based actions in a responsive user interface. This initiative will extend the MVP capabilities developed to date and get Hermes into a redistributable, production ready state for delivering fully decentralised voting.
+Hermes is the underlying infrastructure for decentralising UX, enabling high-availability of an application engine that provides distributed storage and event processing for voting events, proposals, and role-based actions in a responsive user interface. This initiative will extend the MVP capabilities developed to date and get Hermes into a redistributable, production-ready state for delivering fully decentralised voting.
 
 ## Budget Details
 
 {% hint style="info" %}
-**Requested budget: ₳ 80,707,334**
+Requested budget: **₳ 77,526,800**
 {% endhint %}
 
 {% hint style="info" %}
