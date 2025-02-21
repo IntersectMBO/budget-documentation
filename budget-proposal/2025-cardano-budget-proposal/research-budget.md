@@ -37,9 +37,9 @@ This proposal was defined by the Cardano Product Committee via community consult
 
 The proposed budget for the upcoming fiscal period will encompass all funding requests made by the Cardano Product Committee. The primary mandate for allocating these requested funds is to cover several key areas: Vision creation focuses on financing the efforts and expenses necessary to develop an open and transparent process led by the community for evolving a five-year vision for the Cardano ecosystem. Academic research is aimed at supporting mid- and long-term research that has a forward-looking approach, providing essential long-term direction for the ecosystem. Product research targets funding for short- and mid-term user and market research, which is crucial for gathering concrete insights into user needs, market gaps, and opportunities, as well as for collecting data that will inform the proposed goals for 2025 and the vision creation process. Lastly, the Overhead section allocates funds for the work and operational expenses associated with this committee's efforts in supporting and managing the aforementioned activities.
 
-The proposed Research Budget is **₳ 27,211,304**.  This is to be managed by one Treasury withdrawal action using a smart contract:
+The proposed Research Budget is **₳ 26,961,364**.  This is to be managed by one Treasury withdrawal action using a smart contract:
 
-| June 2025 | **₳ 27,211,304** |
+| June 2025 | **₳ 26,961,364** |
 | --------- | ---------------- |
 
 ***
@@ -402,7 +402,7 @@ Some examples of what this budget will cover include but are not limited to:
 
 #### Requested Budget
 
-We're budgeting for up to 100 workshops (in-person and remote) supported by Intersect hubs, coming to a total of $200k requests for vision creation with a commitment to return the remaining funds at the end of the vision creation process if the funds are not fully spent. We don't see a need for professional services as we're going to be developing this in an open-source volunteer fashion.
+We're budgeting for up to 100 workshops (in-person and remote) supported by Intersect hubs, coming to a total of $75k requests for vision creation with a commitment to return the remaining funds at the end of the vision creation process if the funds are not fully spent. We don't see a need for professional services as we're going to be developing this in an open-source volunteer fashion.
 
 ### Product Committee Overhead sub-bucket
 
@@ -430,7 +430,7 @@ Considering an estimation to cover the examples above, plus anything small that 
 ## Budget details
 
 {% hint style="info" %}
-**Requested budget: ₳ 27,211,304**
+**Requested budget: ₳ 26,961,364**
 {% endhint %}
 
 {% hint style="info" %}
