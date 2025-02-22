@@ -4,9 +4,7 @@ icon: timeline-arrow
 
 # 2025 Budget Process Timeline
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-## Intersect Governance Action Plan
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 ### Process Timeline
 

@@ -1,9 +1,9 @@
-# Open Session #1
+# CBC AMA Nov 5 24
 
 
 
 {% embed url="https://youtu.be/FQiO1vAttyg" %}
-Cardano Budget Process AMA Session #1 - November 2024
+Cardano Budget Process AMA Session [open-session-1.md](open-session-1.md "mention")
 {% endembed %}
 
 <details>
