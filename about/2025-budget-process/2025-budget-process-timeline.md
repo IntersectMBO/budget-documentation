@@ -6,6 +6,14 @@ icon: timeline-arrow
 
 <figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
+### Key dates:&#x20;
+
+Net Change Limit = To be raised as a governance action on 3 March 2025
+
+The first budget = A budget could be raised from 31 March 2025
+
+
+
 ### Process Timeline
 
 #### Phase 1
