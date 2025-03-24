@@ -96,16 +96,19 @@ _Presenter: Lloyd Duhon_
 
 **b. Net Change Limit (NCL)**
 
-* Motion to reduce from 350M to 300M ADA was raised.
-* Clarified 2024 treasury income = \~351M ADA.
-* Motion withdrawn after confirmation.
-* _Outcome:_ NCL remains _350M ADA_. To be published by Intersect.
+* Jose Velazquez Raised a motion to reduce the previously approved NCL from 350M to 300M ADA.
+* Lawrence Clark updated the committee that the model projected 2024 treasury income = \~351M ADA.
+* Lawrence Clark ask how the number had been calculated, Jose Velazquez confirmed he had used data available online.&#x20;
+* Lawrence Clark asked if the number calculated included with withdrawal of Catalyst finds in 2024?  Jose confirmed he had not taken this into account.&#x20;
+* Motion carried by unanimous vote to keep the NCL at 350m ada.
+* _Outcome:_ NCL remains _350M ada_.&#x20;
 
 **c. Blog Post Endorsements**
 
 * _Jack Briggs_ presented two draft posts:
   * NCL rationale and framing
   * Overview of roles in the new process
+  * Action on committee to review and feedback comments.&#x20;
 * Committee encouraged to provide feedback prior to publication.
 
 ***
@@ -126,7 +129,7 @@ _Presenter: Lloyd Duhon_
 | Share DREP survey results                        | Marc Gorman           | Include hybrid preference insights |
 | Finalize and publish NCL                         | Lawrence Clark & Ryan | Target: March 25                   |
 | Review and comment on blog posts                 | All committee members | See Discord thread                 |
-| Volunteer for reconciliation design              | Interested members    | Contact Marc                       |
+| Volunteer for reconciliation design              | Interested members    | Contact Marc or Lawrence Clark     |
 | Gather and present additional line-item feedback | Jose Velazquez        | Revisit next week                  |
 
 ***
