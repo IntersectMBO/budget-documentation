@@ -20,9 +20,9 @@ The 2025 Net Change Limit will be effective for the period specified in this act
 
 ### Rationale
 
-As agreed with the Intersect Budget Committee, the 2025 Net Change Limit shall begin at the start of Epoch 532 and progress for 72 epochs, concluding in December 2025 at the end of Epoch 604.
+As agreed with the Cardano Budget Committee, the 2025 Net Change Limit shall begin at the start of Epoch 532 and progress for 72 epochs, concluding in December 2025 at the end of Epoch 604.
 
-The 2025 Net Change Limit shall be set at 350,000,000,000,000 lovelace (350M ada).&#x20;
+The 2025 Net Change Limit shall be set at 350,000,000,000,000 lovelace (350M ada).
 
 This figure is derived from our modeling, which projected in October 2024 that the treasury would increase by approximately 351M ada across 2024 (epoch 459-531), including all approved withdrawals (e.g., Catalyst). Based on this analysis, the 2025 Net Change Limit was proposed at 350m ada. From January 5th, 2024, Epoch 459, through December 30th, Epoch 531, the actual total income into the Cardano Treasury was 335,957,093 ada. Since this is within 5% of our proposed number, the 2025 Net Change Limit should stay at 350 million ada.
 
