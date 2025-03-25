@@ -15,7 +15,7 @@
 * [How to Join or Contact Us?](about/how-to-join-or-contact-us.md)
 * [2025 Budget Process](about/2025-budget-process/README.md)
   * [2025 Budget Process Timeline](about/2025-budget-process/2025-budget-process-timeline.md)
-  * [Draft - Net Change Limit Info Action](about/2025-budget-process/draft-net-change-limit-info-action.md)
+  * [2025 Net Change Limit](about/2025-budget-process/2025-net-change-limit.md)
 
 ## Budget proposal
 
