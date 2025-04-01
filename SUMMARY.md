@@ -2,7 +2,7 @@
 
 ## ABOUT
 
-* [Cardano Budget Committee (Intersect)](README.md)
+* [Cardano Budget Committee (CBC)](README.md)
 * [Committee Members](about/committee-members/README.md)
   * [Roles and Responsibilities](about/committee-members/roles-and-responsibilities.md)
 * [Working Groups](about/working-groups.md)
