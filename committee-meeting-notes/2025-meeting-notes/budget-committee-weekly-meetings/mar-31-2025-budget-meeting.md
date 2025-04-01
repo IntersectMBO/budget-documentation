@@ -44,7 +44,7 @@ Because there was no quorum, the meeting was informational only.
 
 * **Proposals Launch:**
   * Marc announced that a new proposal submission form (Gov Tool) would go live on **April 1** (subject to final QA).
-  * Approximately **50 proposals** have been received so far; more are expected throughout April (notably from the CDC).
+  * Approximately **50 proposals** have been received so far; more are expected throughout April (notably from CDEC & IO).
   * Once published, proposals will be publicly visible unless they require confidentiality due to security considerations.
 * **Voting/Delegation Integration:**
   * Up-/Down-voting, stake delegation, and temperature checks will be added to the Gov Tool soon, allowing DReps to gauge community sentiment.
