@@ -16,7 +16,7 @@ Jeffery Siler
 
 ## Agenda
 
-<figure><img src="../../.gitbook/assets/2 -Jan 13 2025 Budget Meeting .png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2 -Jan 13 2025 Budget Meeting .png" alt=""><figcaption></figcaption></figure>
 
 ## Summary
 

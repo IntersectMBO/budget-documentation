@@ -29,4 +29,4 @@ icon: person-chalkboard
 
 
 
-<figure><img src="../../.gitbook/assets/WhatsApp Image 2024-10-23 at 05.45.08_7e828174.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/WhatsApp Image 2024-10-23 at 05.45.08_7e828174.jpg" alt=""><figcaption></figcaption></figure>

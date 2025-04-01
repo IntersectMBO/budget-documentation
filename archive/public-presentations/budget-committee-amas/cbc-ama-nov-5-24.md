@@ -3,7 +3,7 @@
 
 
 {% embed url="https://youtu.be/FQiO1vAttyg" %}
-Cardano Budget Process AMA Session [open-session-1.md](open-session-1.md "mention")
+Cardano Budget Process AMA Session [cbc-ama-nov-5-24.md](cbc-ama-nov-5-24.md "mention")
 {% endembed %}
 
 <details>
