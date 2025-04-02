@@ -8,7 +8,11 @@
 * [Working Groups](about/working-groups.md)
 * [How to Join or Contact Us?](about/how-to-join-or-contact-us.md)
 
-## Budget proposal
+## Budget proposals
+
+***
+
+* [Cardano Budget Submission Process](cardano-budget-submission-process.md)
 
 ## Committee Meeting Notes
 

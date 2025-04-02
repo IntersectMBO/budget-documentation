@@ -1,5 +1,6 @@
 ---
 description: The Cardano Model
+hidden: true
 ---
 
 # A Comprehensive Annual Budget Process for Decentralized Governance
@@ -92,7 +93,7 @@ These processes emphasize community input, technical rigor, and consensus-buildi
 
 ### London Process Workshop for the Civics Committee
 
-The London Process Workshop provided valuable insights into collaborative decision-making and governance structures. Its focus on civic engagement and participatory processes has influenced the design of stakeholder involvement in the budget allocation process. From the London workshop a list of process best practices surfaced. They are located here: [Core Principles](https://docs.google.com/document/d/1CoqcFh3w3B-CA\_hdLP3Lj3w3C4mrejun5Pss6VuEJoM/edit?usp=sharing)
+The London Process Workshop provided valuable insights into collaborative decision-making and governance structures. Its focus on civic engagement and participatory processes has influenced the design of stakeholder involvement in the budget allocation process. From the London workshop a list of process best practices surfaced. They are located here: [Core Principles](https://docs.google.com/document/d/1CoqcFh3w3B-CA_hdLP3Lj3w3C4mrejun5Pss6VuEJoM/edit?usp=sharing)
 
 ### Popular and Academic Influences
 
@@ -121,7 +122,7 @@ The proposed budget management system for Cardano is structured as a two-part pr
 
 ### Bucket Allocation Process
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXcJ2zMB-00Z7Yk11e3tmIfwnLiMgTQBsV7Yx3i2fA73hLICQjWVac1XCSVPmZWPx14E5\_uK\_SKI6rz3Dj9rThVLjsE6aGmRAVJZ31Kiems8HC2N61uxBwYoB8N11Dgi6T22C7R9uh\_TQbxSp3gK6TjE8u8?key=PSnAGobPvGAFN6ZebknhsA)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcJ2zMB-00Z7Yk11e3tmIfwnLiMgTQBsV7Yx3i2fA73hLICQjWVac1XCSVPmZWPx14E5_uK_SKI6rz3Dj9rThVLjsE6aGmRAVJZ31Kiems8HC2N61uxBwYoB8N11Dgi6T22C7R9uh_TQbxSp3gK6TjE8u8?key=PSnAGobPvGAFN6ZebknhsA)
 
 1. Defining funding priorities: The bucket allocation process begins with defining broad funding priorities for the Cardano ecosystem. This involves identifying key areas of focus, such as protocol development, community growth, education, and ecosystem expansion. These priorities are established through a combination of strategic analysis, community input, and alignment with Cardano's long-term vision.
 2. Stakeholder involvement: A wide range of stakeholders are involved in this process, including community members, DReps, developers, and ecosystem partners. This diverse participation ensures that the funding priorities reflect the needs and aspirations of the entire Cardano community. Stakeholders contribute through various channels, including forums, workshops, and formal proposal submissions.
@@ -170,7 +171,7 @@ Community Grants
 
 ### Budget Planning
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXd8hi8E5DJhvyLQCoAW-PIWD5W9832YJL8j5\_9c9BYw6J7QalIe\_oKUEOuBb2DUvaXRPnB\_gP9eITMFYApKKaBrxqA4Iv3sNx1--yr6DYNB2AyKtH9bxP9aoF5AkLxVd0tdGN0rkEkqShIFCTW46aNikqko?key=PSnAGobPvGAFN6ZebknhsA)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd8hi8E5DJhvyLQCoAW-PIWD5W9832YJL8j5_9c9BYw6J7QalIe_oKUEOuBb2DUvaXRPnB_gP9eITMFYApKKaBrxqA4Iv3sNx1--yr6DYNB2AyKtH9bxP9aoF5AkLxVd0tdGN0rkEkqShIFCTW46aNikqko?key=PSnAGobPvGAFN6ZebknhsA)
 
 1. Role of champions: For each major funding area or significant project, a champion is selected. These champions develop detailed budget proposals, coordinating with relevant stakeholders, and overseeing the execution of funded initiatives. They serve as the primary point of contact and accountability for their respective areas. This role will need to be filled immediately after the publication of the bucket allocations from the previous step.
 2. Collaboration with Intersect: Intersect plays a crucial role in the budget planning process, acting as a coordinating body. It facilitates communication between champions and committees, provides resources and support for proposal development, and ensures alignment with the overall bucket allocation priorities.\
@@ -199,7 +200,7 @@ This two-part process creates a comprehensive approach to budget management that
 
 ## Project Management Champions
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXfZyr\_bVtMLYps1htvkodjFO1tEbZSc3hXzgVmoyzo8CWoCeTvgcce1Q43pkumlCqmTjD7EVLAUpx2J1goUCEz09S7t-IpiuoxVybHP6JjF8FH4qmCUxLkbPTucRlxkZy3Hf36XJ1DcidXX-5PQyYFhK179?key=PSnAGobPvGAFN6ZebknhsA)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfZyr_bVtMLYps1htvkodjFO1tEbZSc3hXzgVmoyzo8CWoCeTvgcce1Q43pkumlCqmTjD7EVLAUpx2J1goUCEz09S7t-IpiuoxVybHP6JjF8FH4qmCUxLkbPTucRlxkZy3Hf36XJ1DcidXX-5PQyYFhK179?key=PSnAGobPvGAFN6ZebknhsA)
 
 The role of project management champions is crucial in the Cardano budget creation process and the successful execution of funded initiatives. Drawing inspiration from the DARPA model, which has proven highly effective in fostering innovation and managing complex projects, Cardano's approach recognizes the pivotal role of these champions in driving progress and maintaining project vitality.
 
@@ -233,7 +234,7 @@ By adopting this dynamic approach to project management, inspired by the DARPA m
 
 The Project Application Form is a crucial component of Cardano's budget process, designed to ensure transparency, fairness, and thoroughness in project proposals. This standardized form is accessible to all community members, embodying Cardano's commitment to inclusive governance.&#x20;
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXc6FDjrEODgiRMkFxxE-7CH8SY2m8nZsvZmp43m9rBpEE0\_C7j\_bwNuDGg7Z6R3WIjffA5zN4FEJ-CqkiwYjUZQWMVf1jN5946GtSrnhzcKW74JDSni1n8DVobxtR-es3INqxMOxPg0Q7DbmB8GxpJQDoq0?key=PSnAGobPvGAFN6ZebknhsA)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc6FDjrEODgiRMkFxxE-7CH8SY2m8nZsvZmp43m9rBpEE0_C7j_bwNuDGg7Z6R3WIjffA5zN4FEJ-CqkiwYjUZQWMVf1jN5946GtSrnhzcKW74JDSni1n8DVobxtR-es3INqxMOxPg0Q7DbmB8GxpJQDoq0?key=PSnAGobPvGAFN6ZebknhsA)
 
 The form contains three sections, Feasibility, Accountability, and Benefit. Each of the sections will need to be completed by the project management champion who will guide the project through the budget process.&#x20;
 
@@ -282,7 +283,7 @@ Taking a snapshot from the community about their perception of the highest prior
 The committee charged with resourcing a particular bucket allocation should utilize Special Interest Groups within the Intersect membership to take these vote preferences. It is important to note that this should be considered as one data point in the creation of the budget priorities for the upcoming year. In addition to this data point, Subject Matter Experts should be consulted, as should other stakeholders in the ecosystem, so that the best possible budget is assembled for the DReps to evaluate.\
 
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXdbdn33eqEomX-1OXCReW8N56i6mVhTiIVOWrox9kkl4v4h0fDSzvpPU2mOk3Ak2ykaEriIaDh4MN-t2GTerZEE--g5rjMH-c6afKfpvuMvRdl318ZUJYAlkFboa5Htzm0ul2scY7kseOXcAdciW3mtRqjq?key=PSnAGobPvGAFN6ZebknhsA)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdbdn33eqEomX-1OXCReW8N56i6mVhTiIVOWrox9kkl4v4h0fDSzvpPU2mOk3Ak2ykaEriIaDh4MN-t2GTerZEE--g5rjMH-c6afKfpvuMvRdl318ZUJYAlkFboa5Htzm0ul2scY7kseOXcAdciW3mtRqjq?key=PSnAGobPvGAFN6ZebknhsA)
 
 ### Individual Budget Allocation
 
@@ -338,7 +339,7 @@ This process feeds directly into the DRep consultations. Intersect members will 
 
 Delegated Representatives (DReps) play a crucial role in the Cardano governance model, and their involvement in the budget process is essential for ensuring democratic representation and legitimacy. This section outlines the key aspects of DRep participation in the budget management system.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXdyex0PuZ9O1hnPEXLbaO-VrYu8N\_tcHQIHxmcqnX9W7qFGlqAre-EOq1LAnQzFiniq1wh3SzE10VaLPzMgbKxKftCpsOZhraJx9TVoFZrakbKspfBnX51kiY\_q1hUXSEX\_q0vjAsUiCYQRmqNuabq6qp0?key=PSnAGobPvGAFN6ZebknhsA)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdyex0PuZ9O1hnPEXLbaO-VrYu8N_tcHQIHxmcqnX9W7qFGlqAre-EOq1LAnQzFiniq1wh3SzE10VaLPzMgbKxKftCpsOZhraJx9TVoFZrakbKspfBnX51kiY_q1hUXSEX_q0vjAsUiCYQRmqNuabq6qp0?key=PSnAGobPvGAFN6ZebknhsA)
 
 ### Consultation Sessions
 
@@ -365,7 +366,7 @@ This continuous involvement ensures that DReps can effectively represent their c
 
 ### Cognitive load management in decision-making
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXfmBYVtobWISXHNO1W4kU9AG0pNVleblLAyiCSg6LFfMtinhQHnMTAN\_Xi5Wc1\_yJ6k\_VzIXv2nxpxdMT1O4eIHPdUWKsNJQCtOiBU8IONpkR7xaroFFm27GxBXOPjyHdF2c\_TTgeBAMK2BfAi\_svvqeEde?key=PSnAGobPvGAFN6ZebknhsA)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfmBYVtobWISXHNO1W4kU9AG0pNVleblLAyiCSg6LFfMtinhQHnMTAN_Xi5Wc1_yJ6k_VzIXv2nxpxdMT1O4eIHPdUWKsNJQCtOiBU8IONpkR7xaroFFm27GxBXOPjyHdF2c_TTgeBAMK2BfAi_svvqeEde?key=PSnAGobPvGAFN6ZebknhsA)
 
 Recognizing the complexity of the budget process and the potential for information overload, several strategies are employed to manage the cognitive load on DReps:
 
@@ -384,7 +385,7 @@ Through these mechanisms, DRep involvement is both comprehensive and efficient. 
 
 Transparency and accountability are cornerstone principles in the Cardano ecosystem's budget management process. This section outlines the key mechanisms implemented to ensure openness, verifiability, and responsible stewardship of community resources.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXdujNjSjLx-Nr4vYMzB4mozB8V47P-9C4cycVA8Q9IxCv8pO-59sp69i-PY3DDcPj2iTweJYsyfBuo5qPPgZmETHGt8CrNEP12ob-eQm6duT\_HEBvbhZJDBZNdqA7Iu2u\_GAYmshyw1n4dPuG6IBX-SIbn3?key=PSnAGobPvGAFN6ZebknhsA)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdujNjSjLx-Nr4vYMzB4mozB8V47P-9C4cycVA8Q9IxCv8pO-59sp69i-PY3DDcPj2iTweJYsyfBuo5qPPgZmETHGt8CrNEP12ob-eQm6duT_HEBvbhZJDBZNdqA7Iu2u_GAYmshyw1n4dPuG6IBX-SIbn3?key=PSnAGobPvGAFN6ZebknhsA)
 
 ### On-chain info actions for verifiability
 
@@ -496,7 +497,7 @@ Intersect plays a crucial role in the Cardano budget process, serving as a facil
 \
 
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXcWtBxLNiTW2zSneX-M5SVRD6dtYitI7zJXiJ3RaLh3-zc3IvY2\_3v7cYtyfFoUVZMHn8iiYhizCl70edzsYSNHU6SkgE2JTa-QbNsoEgwFcfA6khrn182YlCIDHRWrF1mxoWzz\_LcmvnVMrkoyFk\_1plo?key=PSnAGobPvGAFN6ZebknhsA)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcWtBxLNiTW2zSneX-M5SVRD6dtYitI7zJXiJ3RaLh3-zc3IvY2_3v7cYtyfFoUVZMHn8iiYhizCl70edzsYSNHU6SkgE2JTa-QbNsoEgwFcfA6khrn182YlCIDHRWrF1mxoWzz_LcmvnVMrkoyFk_1plo?key=PSnAGobPvGAFN6ZebknhsA)
 
 ### Hosting the process
 
@@ -576,7 +577,7 @@ The Cardano budget process is designed not just for immediate needs, but with a 
 
 ### Ulysses pacts and progress
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXfH919VKLMi60GJLVkIkGrCdrxXWCLdYgpew1UO7cBsYH\_\_qWSkKiIlT1ifNFllkZqZ9umk4XqQhTHPIJMM8GGNjKUsXMcjMr7AfS7VAH35toslKTYHvIG8PKFaXKzzxuj0OlKyo1SksgpnD0QilW94y6cZ?key=PSnAGobPvGAFN6ZebknhsA)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfH919VKLMi60GJLVkIkGrCdrxXWCLdYgpew1UO7cBsYH__qWSkKiIlT1ifNFllkZqZ9umk4XqQhTHPIJMM8GGNjKUsXMcjMr7AfS7VAH35toslKTYHvIG8PKFaXKzzxuj0OlKyo1SksgpnD0QilW94y6cZ?key=PSnAGobPvGAFN6ZebknhsA)
 
 The concept of Ulysses pacts, named after the mythical Greek hero who had himself bound to his ship's mast to resist the Sirens' call, offers a powerful framework for establishing long-term commitments in governance systems. As Ryan Spellecy notes in his article "Reviving Ulysses Contracts," these self-binding agreements can serve as "a mechanism of self-control" in situations where short-term desires might conflict with long-term goals.
 
