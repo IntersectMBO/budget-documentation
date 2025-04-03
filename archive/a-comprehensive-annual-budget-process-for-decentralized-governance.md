@@ -1,6 +1,5 @@
 ---
 description: The Cardano Model
-hidden: true
 ---
 
 # A Comprehensive Annual Budget Process for Decentralized Governance

@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Intersect's Contract Management process
 
 Here, you will find an overview of how Intersect's Operational Services will manage contracts and committee budgets.

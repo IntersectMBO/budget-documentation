@@ -43,11 +43,9 @@
 * [Community Engagement Plan](standards-operational-procedures/community-engagement-plan.md)
   * [Budget survey responses](standards-operational-procedures/community-engagement-plan/budget-survey-responses/README.md)
     * [Anonymized data](standards-operational-procedures/community-engagement-plan/budget-survey-responses/anonymized-data.md)
-* [Intersect's Contract Management process](standards-operational-procedures/intersects-contract-management-process.md)
 
 ***
 
-* [A Comprehensive Annual Budget Process for Decentralized Governance](a-comprehensive-annual-budget-process-for-decentralized-governance.md)
 * [Archive](archive/README.md)
   * [2024 Updates](archive/2024-updates/README.md)
     * [August Monthly Updates](archive/2024-updates/august-monthly-update/README.md)
@@ -112,3 +110,5 @@
     * [Budget Presentation at Cardano Summit 2024](archive/public-presentations/budget-presentation-at-cardano-summit-2024/README.md)
       * [Cardano Summit Stop/Start/Continue Exercise](archive/public-presentations/budget-presentation-at-cardano-summit-2024/cardano-summit-stop-start-continue-exercise.md)
     * [Budget Presentation at Rare Evo 2024](archive/public-presentations/budget-presentation-at-rare-evo.md)
+  * [Intersect's Contract Management process](archive/intersects-contract-management-process.md)
+  * [A Comprehensive Annual Budget Process for Decentralized Governance](archive/a-comprehensive-annual-budget-process-for-decentralized-governance.md)
