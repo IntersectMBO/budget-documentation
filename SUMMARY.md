@@ -20,6 +20,7 @@
   * [Budget Task Force Catchup](committee-meeting-notes/2025-meeting-notes/budget-task-force-catchup/README.md)
     * [March 28, 2025 Budget Task Force Catchup](committee-meeting-notes/2025-meeting-notes/budget-task-force-catchup/march-28-2025-budget-task-force-catchup.md)
   * [Budget Committee Weekly Meetings](committee-meeting-notes/2025-meeting-notes/budget-committee-weekly-meetings/README.md)
+    * [June 2nd, 2025 Budget Comm Minutes](committee-meeting-notes/2025-meeting-notes/budget-committee-weekly-meetings/june-2nd-2025-budget-comm-minutes.md)
     * [May 16, 2025 Budget Comm Minutes](committee-meeting-notes/2025-meeting-notes/budget-committee-weekly-meetings/may-16-2025-budget-comm-minutes.md)
     * [May 14, 2025 Budget Comm Minutes](committee-meeting-notes/2025-meeting-notes/budget-committee-weekly-meetings/may-14-2025-budget-comm-minutes.md)
     * [May 9, 2025 Budget Comm Minutes](committee-meeting-notes/2025-meeting-notes/budget-committee-weekly-meetings/may-9-2025-budget-comm-minutes.md)
