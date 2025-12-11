@@ -7,7 +7,7 @@
 **Attendees:**
 
 * **Budget Committee:**
-  * Kris (Chris) Kowalski – Chair
+  * Kris Kowalski – Chair
   * Megan Hess – Vice Chair
   * Shunsuke Murasaki – Member
   * Dimitri – Member
