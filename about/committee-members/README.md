@@ -10,7 +10,7 @@ icon: people-group
 
 1 Secretary
 
-6 Additional Voting Seats
+9 Additional Voting Seats
 
 Non-Voting Subject Matter Experts & Observers as Needed.
 
