@@ -16,10 +16,16 @@
 
 ## Committee Meeting Notes
 
+* [2026 Meeting Notes](committee-meeting-notes/2026-meeting-notes/README.md)
+  * [Budget Committee Weekly Meetings](committee-meeting-notes/2026-meeting-notes/budget-committee-weekly-meetings/README.md)
+    * [January 19th, 2026 Budget Comm Minutes](committee-meeting-notes/2026-meeting-notes/budget-committee-weekly-meetings/january-19th-2026-budget-comm-minutes.md)
+    * [January 12th, 2026 Budget Comm Minutes](committee-meeting-notes/2026-meeting-notes/budget-committee-weekly-meetings/january-12th-2026-budget-comm-minutes.md)
+    * [January 5th, 2026 Budget Comm Minutes](committee-meeting-notes/2026-meeting-notes/budget-committee-weekly-meetings/january-5th-2026-budget-comm-minutes.md)
 * [2025 meeting notes](committee-meeting-notes/2025-meeting-notes/README.md)
   * [Budget Task Force Catchup](committee-meeting-notes/2025-meeting-notes/budget-task-force-catchup/README.md)
     * [March 28, 2025 Budget Task Force Catchup](committee-meeting-notes/2025-meeting-notes/budget-task-force-catchup/march-28-2025-budget-task-force-catchup.md)
   * [Budget Committee Weekly Meetings](committee-meeting-notes/2025-meeting-notes/budget-committee-weekly-meetings/README.md)
+    * [December 15th, 2025 Budget Comm Minutes](committee-meeting-notes/2025-meeting-notes/budget-committee-weekly-meetings/december-15th-2025-budget-comm-minutes.md)
     * [December 8th, 2025 Budget Comm Minutes](committee-meeting-notes/2025-meeting-notes/budget-committee-weekly-meetings/december-8th-2025-budget-comm-minutes.md)
     * [December 1st, 2025 Budget Comm Minutes](committee-meeting-notes/2025-meeting-notes/budget-committee-weekly-meetings/december-1st-2025-budget-comm-minutes.md)
     * [November 24th, 2025 Budget Comm Minutes](committee-meeting-notes/2025-meeting-notes/budget-committee-weekly-meetings/november-24th-2025-budget-comm-minutes.md)
