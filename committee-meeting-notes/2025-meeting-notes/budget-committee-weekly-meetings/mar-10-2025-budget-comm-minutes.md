@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name                                | Attendance  | Role                                                       | Voting Seat (Y/N) |
 | ----------------------------------- | ----------- | ---------------------------------------------------------- | ----------------- |
@@ -19,20 +18,17 @@
 | Shunsuke Murasaki                   | Yes         | Former Voting Member, Mentor, Emurgo                       | <p><br></p>       |
 | Simo Simovic                        | <p><br></p> | Intersect Staff                                            | <p><br></p>       |
 
-\
-
+<br>
 
 &#x20;
 
 Recording: [https://drive.google.com/file/d/17SDiXTK-icY4g7G44AZlo0nGEm0o2S-r/view?usp=drive\_link](https://drive.google.com/file/d/17SDiXTK-icY4g7G44AZlo0nGEm0o2S-r/view?usp=drive_link)
 
-\
-
+<br>
 
 Transcript: [https://docs.google.com/document/d/13fNY0zi\_JhEw1aJWXsGkNhnD-HiVQ8GRmteyUAnAI2E/edit?tab=t.0#heading=h.kyv2ry8t4naz](https://docs.google.com/document/d/13fNY0zi_JhEw1aJWXsGkNhnD-HiVQ8GRmteyUAnAI2E/edit?tab=t.0#heading=h.kyv2ry8t4naz)
 
-\
-
+<br>
 
 ## Agenda 1.16.25
 
@@ -40,13 +36,11 @@ Transcript: [https://docs.google.com/document/d/13fNY0zi\_JhEw1aJWXsGkNhnD-HiVQ8
 * Internal Committee Operations and Support: Addressing issues like ClickUp access, the committee's budget request, and the need for increased committee involvement in process design.
 * Working Group Updates and Strategic Planning: Reporting on progress from the Audit and Treasury working groups, establishing the Smart Contract working group, and discussing the Net Change Limit and overall budget timeline.
 
-\
-
+<br>
 
 ## Decisions/Actions
 
-\
-
+<br>
 
 | Topic                                           | Discussion                                                                                                                                                                                                                                                                                                                                                                                           | Action Items                                                                                                                                                                                           |
 | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -69,4 +63,4 @@ Transcript: [https://docs.google.com/document/d/13fNY0zi\_JhEw1aJWXsGkNhnD-HiVQ8
 | Committee Involvement in Design                 | Mercy expressed feeling "blindsided" by the new pivot and desired more involvement in the design process, suggesting weekly meetings aren't enough. Lawrence Clark acknowledged this and committed to championing committee members' invitation to task force sessions for greater operational insight.                                                                                              | Lawrence Clark to ensure committee members receive invitations to relevant task force sessions.                                                                                                        |
 | DREP Voting on Line Items                       | Jose Velazquez asked if DREP voting on line items would be based on voting power or one-person, one-vote. Lloyd Duhon stated it's up to the DREPs, but tooling can track both total voters and ADA delegated.                                                                                                                                                                                        | <p><br></p>                                                                                                                                                                                            |
 
-\
+<br>

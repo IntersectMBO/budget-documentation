@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name                | Role                                  |
 | ------------------- | ------------------------------------- |
@@ -17,11 +16,9 @@
 | Nico Cerny          | Observer, Cardano Foundation Staff    |
 | Tim Richmond        | <p><br></p>                           |
 
-\
+<br>
 
-
-\
-
+<br>
 
 Transcript:  [https://docs.google.com/document/d/1nq8lSo\_JYQFi6BbWGPwKqw2\_A9bZabk\_dL-m4aGoY2U/edit?tab=t.arnrcwrprb9z](https://docs.google.com/document/d/1nq8lSo_JYQFi6BbWGPwKqw2_A9bZabk_dL-m4aGoY2U/edit?tab=t.arnrcwrprb9z)
 
@@ -32,13 +29,11 @@ Transcript:  [https://docs.google.com/document/d/1nq8lSo\_JYQFi6BbWGPwKqw2\_A9bZ
 * Operational Challenges and Future Process Design: Identification of complexities related to fiat conversion volatility, vendor payment issues, and the imperative to simplify and improve the budget process for the 2026 cycle based on current lessons learned.
 
 \
-\
-
+<br>
 
 ## Decisions/Actions
 
-\
-
+<br>
 
 | Topic                                | Discussion                                                                                                                                                                                                                                                                                                                            | Action Items                                                                                                                                                                                                                                                                                                                                 |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -55,4 +50,4 @@ Transcript:  [https://docs.google.com/document/d/1nq8lSo\_JYQFi6BbWGPwKqw2\_A9bZ
 | Travel Rule Implications             | Chris Baird raised awareness about Travel Rule issues encountered by large projects when moving significant ADA sums to exchanges/custodians, leading to frozen transactions. Converting to USD/stablecoins might alleviate this.                                                                                                     | Committee to remain aware of Travel Rule implications for large-scale fund movements.                                                                                                                                                                                                                                                        |
 | Long-Term Budget Process Improvement | There's ongoing discussion about how to refine the budget process for 2026 to avoid current complexities. The general sentiment is to move forward with current withdrawals, learn, and then radically simplify the next cycle.                                                                                                       | Committee to identify and propose mechanisms for long-term budget process simplification (e.g., hedging options, clear risk definitions).                                                                                                                                                                                                    |
 
-\
+<br>

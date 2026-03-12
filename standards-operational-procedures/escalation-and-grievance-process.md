@@ -100,4 +100,4 @@ This process will be reviewed annually and may be amended by a super majority vo
 
 By participating in the Cardano Budget Committee or its processes, all parties agree to adhere to this Escalation and Grievance Process.
 
-\
+<br>

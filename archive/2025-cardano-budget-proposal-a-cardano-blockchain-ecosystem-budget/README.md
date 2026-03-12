@@ -51,8 +51,7 @@ Intersect was incorporated on December 8th, 2023 as a not-for-profit corporation
 
 As a not-for-profit, member-based organization, Intersect focuses on supporting and championing Cardano's governance and technical development, acting as a steward for the network's growth and decentralization. It helps to facilitate the rollout and evolution of Cardano’s on-chain governance, supports the delivery of Cardano’s product roadmap, and fosters collaboration among ecosystem participants, including all ADA owners and those interested in Cardano—particularly developers, stake pool operators (SPOs), delegated representatives (DReps), and other stakeholders.
 
-It operates as a membership-driven entity, meaning its direction and priorities are influenced by its members, which include individuals and organizations involved in Cardano's development and governance. Intersect currently has 1,800 paid members, including individuals and enterprises. In addition, there are over 2,700 associates, those who have joined for free, to contribute to working groups and hear the latest developments as they happen. Membership at Intersect is always open, and new members are welcome to join and support various initiatives, including the budget and roadmap.\
-
+It operates as a membership-driven entity, meaning its direction and priorities are influenced by its members, which include individuals and organizations involved in Cardano's development and governance. Intersect currently has 1,800 paid members, including individuals and enterprises. In addition, there are over 2,700 associates, those who have joined for free, to contribute to working groups and hear the latest developments as they happen. Membership at Intersect is always open, and new members are welcome to join and support various initiatives, including the budget and roadmap.<br>
 
 At its core, Intersect represents the collective voice of its members, helping shape Cardano’s future so that it reflects the contributions of those who actively drive its success.
 
@@ -147,8 +146,7 @@ Throughout the process, Intersect will communicate updates and explain the ratio
 
 ## 4. Management of funds
 
-The Budget Committee emphasizes that all current figures and allocations are dynamic and provisional. Proposals will be iteratively refined based on quarterly financial reports, ADA price movements, and—critically—community input - ensuring alignment with ecosystem priorities as they evolve. A Net-Change-Limit, budget proposal/s, and subsequent Treasury withdrawals require on-chain approval by DReps and the Interim Constitutional Committee, providing multiple checks and balances before any budget becomes “operational”. \
-
+The Budget Committee emphasizes that all current figures and allocations are dynamic and provisional. Proposals will be iteratively refined based on quarterly financial reports, ADA price movements, and—critically—community input - ensuring alignment with ecosystem priorities as they evolve. A Net-Change-Limit, budget proposal/s, and subsequent Treasury withdrawals require on-chain approval by DReps and the Interim Constitutional Committee, providing multiple checks and balances before any budget becomes “operational”. <br>
 
 Key operating principles:
 
@@ -239,8 +237,7 @@ Below is a summary of the budget requests from each committee. All figures are i
 
 ### **Funding Intersect**&#x20;
 
-* Intersect is seeking ₳20,000,000 to fund its role as the administrator, eliminating the need for a 5% Delivery Assurance fee. This funding will fully support the execution of our 2025 roadmap, covering all operational costs and enabling us to strengthen our capabilities, expand our initiatives, and enhance the value we provide to our members and the broader Cardano ecosystem. \
-
+* Intersect is seeking ₳20,000,000 to fund its role as the administrator, eliminating the need for a 5% Delivery Assurance fee. This funding will fully support the execution of our 2025 roadmap, covering all operational costs and enabling us to strengthen our capabilities, expand our initiatives, and enhance the value we provide to our members and the broader Cardano ecosystem. <br>
 
 Additionally, see here for the[ work-in-progress master spreadsheet](https://docs.google.com/spreadsheets/d/1XNcaZmjfz5Q6ZNwNSLBNaZtrZf58tD7bun2Tz7-GSK4/edit?gid=1531906637#gid=1531906637), which provides full transparency into the current numbers on a single Google Sheet.&#x20;
 
@@ -282,4 +279,4 @@ Through respectful discourse and shared commitment, we can shape a budget that s
 
 Let’s continue building together.
 
-\
+<br>

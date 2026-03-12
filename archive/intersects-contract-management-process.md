@@ -59,8 +59,7 @@ Below is a diagram showing how the Committee's budgets will be managed:
 
 ### Financial Transparency
 
-To ensure transparency, Intersect has proposed a quarterly meeting be held with the CC/DReps.  At these meetings, the Committees, supported by Intersect Core Services, would walk the audience through the financial details and value delivered during the period.\
-
+To ensure transparency, Intersect has proposed a quarterly meeting be held with the CC/DReps.  At these meetings, the Committees, supported by Intersect Core Services, would walk the audience through the financial details and value delivered during the period.<br>
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-11-12 121501.png" alt=""><figcaption></figcaption></figure>
 

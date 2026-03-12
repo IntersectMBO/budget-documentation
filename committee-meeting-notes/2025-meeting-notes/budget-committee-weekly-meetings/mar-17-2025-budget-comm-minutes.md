@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name               | Attendance  | Role                                                                                                | Voting Seat (Y/N) |
 | ------------------ | ----------- | --------------------------------------------------------------------------------------------------- | ----------------- |
@@ -20,15 +19,13 @@
 | Shunsuke Murasaki  | <p><br></p> | Former Voting Member, Mentor, Emurgo                                                                | <p><br></p>       |
 | Simo Simovic       | <p><br></p> | Intersect Staff                                                                                     | <p><br></p>       |
 
-\
-
+<br>
 
 &#x20;
 
 Recording: [https://drive.google.com/file/d/17bEPIUDu4OCh\_YgOrxG1kp1etteO44pm/view?usp=drive\_link](https://drive.google.com/file/d/17bEPIUDu4OCh_YgOrxG1kp1etteO44pm/view?usp=drive_link)
 
-\
-
+<br>
 
 Transcript: [https://docs.google.com/document/d/1jFyf8gEGsopREAGxPX7-5P29oc-nBztlahtFeJPKK-U/edit?tab=t.0#heading=h.q4tt56xqmesv](https://docs.google.com/document/d/1jFyf8gEGsopREAGxPX7-5P29oc-nBztlahtFeJPKK-U/edit?tab=t.0#heading=h.q4tt56xqmesv)
 
@@ -38,13 +35,11 @@ Transcript: [https://docs.google.com/document/d/1jFyf8gEGsopREAGxPX7-5P29oc-nBzt
 * Net Change Limit (NCL) Strategy: Review of the community-proposed NCL, concerns about its constitutionality, and the Budget Committee's plan for their own NCL proposal.
 * Working Group Progress and Next Steps: Updates on the Financial Audit and Budget Task Force, including the need to schedule meetings and define clear action items for all groups.
 
-\
-
+<br>
 
 ## Decisions/Actions
 
-\
-
+<br>
 
 | Topic                                                        | Discussion                                                                                                                                                                                                                                                                                                                                                          | Action Items                                                                                                                                                                                                                                                                                                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -64,4 +59,4 @@ Transcript: [https://docs.google.com/document/d/1jFyf8gEGsopREAGxPX7-5P29oc-nBzt
 | Timeline for Budget Process and Treasury Withdrawals         | The timeline remains on track for final budget reconciliation at the end of April, with treasury withdrawals commencing in the first week of June. The DREP reconciliation workshop is scheduled for April 28th.                                                                                                                                                    | <p><br></p>                                                                                                                                                                                                                                                                                                                                       |
 | Audit Working Group Update                                   | Jose Velazquez reported the Audit Working Group is still trying to schedule a meeting. The goal is to define audit terms of reference, identify vendors, and prepare appropriate wording for DREP approval via an info action.                                                                                                                                      | Lloyd Duhon to offer assistance in scheduling the Audit Working Group meeting. \&lt;br> Jose Velazquez to share the terms of reference for the audit in the chat. \&lt;br> Audit Working Group to meet this week to define audit terms, identify vendors (including those already working in the ecosystem), and draft wording for DREP approval. |
 
-\
+<br>

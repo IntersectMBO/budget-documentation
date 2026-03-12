@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name               | Attendance  | Role                                  | Voting Seat (Y/N) |
 | ------------------ | ----------- | ------------------------------------- | ----------------- |
@@ -17,11 +16,9 @@
 | Kristijan Kowalsky | <p><br></p> | Voting Member, Tweag                  | <p><br></p>       |
 | Shunsuke Murasaki  | <p><br></p> | Former Voting Member, Mentor, Emurgo  | <p><br></p>       |
 
-\
+<br>
 
-
-\
-
+<br>
 
 Transcript: [https://docs.google.com/document/d/16CiVC6JKOQDT3s7SbJzrvrnzraPpXsj9-OE3a7jeTmE/edit?tab=t.mi9ynl2gf8pc](https://docs.google.com/document/d/16CiVC6JKOQDT3s7SbJzrvrnzraPpXsj9-OE3a7jeTmE/edit?tab=t.mi9ynl2gf8pc)
 
@@ -31,13 +28,11 @@ Transcript: [https://docs.google.com/document/d/16CiVC6JKOQDT3s7SbJzrvrnzraPpXsj
 * Key discussions involved seeking DREP preference for different withdrawal options and addressing the ongoing challenge of DREP fatigue.
 * committee addressed a critical issue concerning a member's conduct and unauthorized information sharing.
 
-\
-
+<br>
 
 ## Decisions/Actions
 
-\
-
+<br>
 
 | Topic                                                    | Discussion                                                                                                                                                                                                                                                                                                                                                                                                                | Action Items                                                                                                                                                                                                          |
 | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -52,4 +47,4 @@ Transcript: [https://docs.google.com/document/d/16CiVC6JKOQDT3s7SbJzrvrnzraPpXsj
 | Budget Committee Member Conduct                          | An ongoing issue was raised regarding a budget committee member (Jose) who has allegedly leaked non-public information and made defamatory statements. This is a charter violation requiring formal action when quorum is available.                                                                                                                                                                                      | Lloyd Duhon to formally address the committee member conduct issue with the committee chair (Steve Lupin) when quorum is present on Monday. Consider escalation via Intersect's arbitration route for member conduct. |
 | Governance Challenges & Path Forward                     | The current governance process is complex and lacks easy answers or a "playbook." The committee acknowledges its difficulty but is committed to working together to find a path forward and continuously improve the process.                                                                                                                                                                                             | Continue to actively engage in finding solutions and improving the budget governance process.                                                                                                                         |
 
-\
+<br>

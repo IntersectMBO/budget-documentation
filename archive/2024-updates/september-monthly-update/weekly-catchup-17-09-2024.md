@@ -25,4 +25,4 @@ The budget committee met to discuss streamlining their process and setting finan
 
 The meeting concluded with plans to schedule further discussions, finalize the budget timeline, and continue coordination with all relevant parties.
 
-\
+<br>

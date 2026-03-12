@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name               | Role                                       |
 | ------------------ | ------------------------------------------ |
@@ -18,11 +17,9 @@
 | Kriss Baird        | Voting Member, IOG, Catalyst               |
 | Gerard Moroney     | Board Member, IOG Staff, Budget Task Force |
 
-\
+<br>
 
-
-\
-
+<br>
 
 Transcript: [https://docs.google.com/document/d/1n6t8GQNuTNCj2kBQOyKa7pJnP3hXq9fZcC5iF8Y7bgc/edit?tab=t.hmmm0btn2eb2](https://docs.google.com/document/d/1n6t8GQNuTNCj2kBQOyKa7pJnP3hXq9fZcC5iF8Y7bgc/edit?tab=t.hmmm0btn2eb2)
 
@@ -32,13 +29,11 @@ Transcript: [https://docs.google.com/document/d/1n6t8GQNuTNCj2kBQOyKa7pJnP3hXq9f
 * Governance Action Outcomes and DREP Engagement: Updates on the passing of the Intersect budget, the failure of other NCL proposals, and continued analysis of DREP voting behavior and the need for targeted outreach.
 * Lessons Learned and Future Budget Process Planning: Addressing operational challenges encountered during the 2025 budget cycle, initiating retrospective planning for 2026, and exploring constitutional implications of different withdrawal methods.
 
-\
-
+<br>
 
 ## Decisions/Actions
 
-\
-
+<br>
 
 | Topic                                          | Discussion                                                                                                                                                                                                                                                                                                                                     | Action Items                                                                                                                      |
 | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -55,4 +50,4 @@ Transcript: [https://docs.google.com/document/d/1n6t8GQNuTNCj2kBQOyKa7pJnP3hXq9f
 | Long-Term Process and Retrospective            | Mercy advocated for quickly moving to the 2026 budget process to learn from 2025's challenges and avoid further reputational damage. Jack Briggs confirmed internal retrospective planning is underway, with Chris Baird and Rita Mistry actively involved.                                                                                    | Intersect leadership (Jack Briggs) to define strategies for a more efficient and less coordination-heavy budget process for 2026. |
 | Communication Strategy for Withdrawal          | Ryan's input detailed the need for standard templates, public GitHub repos for technical validation, and digital signatures to verify Intersect's submission of each withdrawal. This is crucial to prevent impersonation and ensure accountability.                                                                                           | Lloyd Duhon to write a summary paper capturing diverse views from this meeting to be shared with the committee.                   |
 
-\
+<br>

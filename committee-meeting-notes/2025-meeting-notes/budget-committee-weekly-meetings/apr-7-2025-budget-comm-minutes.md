@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name              | Attendance  | Role                                                                                                | Voting Seat (Y/N) |
 | ----------------- | ----------- | --------------------------------------------------------------------------------------------------- | ----------------- |
@@ -21,14 +20,12 @@
 
 Recording: [https://drive.google.com/file/d/1eNMiXBQOAYCXoHcVMP5qOoLXMNvFAcSU/view?usp=drive\_link](https://drive.google.com/file/d/1eNMiXBQOAYCXoHcVMP5qOoLXMNvFAcSU/view?usp=drive_link)
 
-\
-
+<br>
 
 Transcript: [https://docs.google.com/document/d/1\_kubnLsNw89ZG5vuUBLfgssMq0T-jBRnWEWd5Xwdr\_0/edit?tab=t.0#heading=h.1wgkzdbze172](https://docs.google.com/document/d/1_kubnLsNw89ZG5vuUBLfgssMq0T-jBRnWEWd5Xwdr_0/edit?tab=t.0#heading=h.1wgkzdbze172)
 
 \
-\
-
+<br>
 
 ## Agenda 1.16.25
 
@@ -36,13 +33,11 @@ Transcript: [https://docs.google.com/document/d/1\_kubnLsNw89ZG5vuUBLfgssMq0T-jB
 * Review of the OSC
 * Open Forum
 
-\
-
+<br>
 
 ## Decisions/Actions
 
-\
-
+<br>
 
 | Topic                                        | Discussion                                                                                                                                                                                                                                                                                                                 | Action Items                                                                                                                                              |
 | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |

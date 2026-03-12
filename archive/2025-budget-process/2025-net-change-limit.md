@@ -51,4 +51,4 @@ https://ipfs.io/ipfs/bafkreiewp5bgrdiesq6ft3qypykgcjhvfgpp4s5o4yrjrvko4wuhi4iecu
 SQL
 
 [https://github.com/IntersectMBO/governance-actions/blob/main/ratification-queries/info-ratification.sql](https://github.com/IntersectMBO/governance-actions/blob/main/ratification-queries/info-ratification.sql)\
-\
+<br>

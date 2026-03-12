@@ -76,4 +76,4 @@ This arbitration process shall be reviewed annually and may be amended by a supe
 
 By agreeing to serve on the Cardano Budget Committee or engage in its processes, all parties agree to abide by this arbitration process for resolving disputes.
 
-\
+<br>

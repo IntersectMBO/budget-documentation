@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name               | Attendance  | Role                                  | Voting Seat (Y/N) |
 | ------------------ | ----------- | ------------------------------------- | ----------------- |
@@ -15,16 +14,13 @@
 | Sunsuke Murasaki   | <p><br></p> | Former Voting Member, Mentor, Emurgo  | <p><br></p>       |
 | Megan Hess         | <p><br></p> | Voting Member                         | <p><br></p>       |
 
-\
+<br>
 
-
-\
-
+<br>
 
 Transcript: [https://docs.google.com/document/d/16SlmplKna1qRyxKLv3H6V8hWFKWF6\_nvmWdPmc3IKRM/edit?tab=t.d5us12r4np3r](https://docs.google.com/document/d/16SlmplKna1qRyxKLv3H6V8hWFKWF6_nvmWdPmc3IKRM/edit?tab=t.d5us12r4np3r)
 
-\
-
+<br>
 
 ## Agenda 1.16.25
 
@@ -33,8 +29,7 @@ Transcript: [https://docs.google.com/document/d/16SlmplKna1qRyxKLv3H6V8hWFKWF6\_
 
 ## Decisions/Actions
 
-\
-
+<br>
 
 | Topic                                     | Discussion                                                                                                                                                                                                                                                                            | Action Items                                                                                                                                                                                     |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

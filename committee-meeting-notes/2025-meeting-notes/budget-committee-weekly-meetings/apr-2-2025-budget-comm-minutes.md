@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name               | Attendance  | Role                                                                                                | Voting Seat (Y/N) |
 | ------------------ | ----------- | --------------------------------------------------------------------------------------------------- | ----------------- |
@@ -17,15 +16,13 @@
 | Marc Gorman        | <p><br></p> | Program Manager Budget Task Force                                                                   | <p><br></p>       |
 | Prof. Steven       | <p><br></p> | Former Voting Member, Mentor, Chairman of Intersect Board.                                          | <p><br></p>       |
 
-\
-
+<br>
 
 &#x20;
 
 Recording: [https://drive.google.com/file/d/1-1Zs3JJ\_-C1rImHVhctmbV7uSvAyUNM7/view?usp=drive\_link](https://drive.google.com/file/d/1-1Zs3JJ_-C1rImHVhctmbV7uSvAyUNM7/view?usp=drive_link)
 
-\
-
+<br>
 
 Transcript: [https://docs.google.com/document/d/163Jda1dxBK4Zs8K90QbwoGPnadjS0M5IQDMBUlfJRzg/edit?tab=t.0#heading=h.ecj3uchrhv0m](https://docs.google.com/document/d/163Jda1dxBK4Zs8K90QbwoGPnadjS0M5IQDMBUlfJRzg/edit?tab=t.0#heading=h.ecj3uchrhv0m)
 
@@ -36,13 +33,11 @@ Transcript: [https://docs.google.com/document/d/163Jda1dxBK4Zs8K90QbwoGPnadjS0M5
 * Discussions also covered smart contract development, vendor submissions, Gov tool API release, and contingency planning for various Net Change Limit scenarios.
 
 \
-\
-
+<br>
 
 ## Decisions/Actions
 
-\
-
+<br>
 
 | Topic                                           | Discussion                                                                                                                                                                                                                                                                                                               | Action Items                                                                                                                                    |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -60,4 +55,4 @@ Transcript: [https://docs.google.com/document/d/163Jda1dxBK4Zs8K90QbwoGPnadjS0M5
 | Workshop Topic Ordering                         | Initial proposal for workshop topic order: Governance & No Category, then Marketing & Innovation, then Core & Research. This aims to distribute volume and allow more time for controversial/technical topics.                                                                                                           | Finalize the order of topics for the proposal review workshops.                                                                                 |
 | Budget Committee Meeting Schedule               | The committee's Monday meetings might conflict with upcoming workshops. A suggestion to move meetings to Tuesdays for April was raised.                                                                                                                                                                                  | Discuss and decide on rescheduling Budget Committee meetings to Tuesdays for April.                                                             |
 
-\
+<br>

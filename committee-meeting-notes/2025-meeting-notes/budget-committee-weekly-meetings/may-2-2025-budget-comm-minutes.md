@@ -20,8 +20,7 @@
 
 Transcript: [https://docs.google.com/document/d/17NQIFt1GDyPbAG5NQBXSbEGHWlfHOHDAopmh0FLZolA/edit?tab=t.j2xh5lrcobnz](https://docs.google.com/document/d/17NQIFt1GDyPbAG5NQBXSbEGHWlfHOHDAopmh0FLZolA/edit?tab=t.j2xh5lrcobnz)
 
-\
-
+<br>
 
 ## Agenda 1.16.25
 
@@ -29,8 +28,7 @@ Transcript: [https://docs.google.com/document/d/17NQIFt1GDyPbAG5NQBXSbEGHWlfHOHD
 * Discussed communication strategies for the upcoming info actions and planned future process improvements.
 * Focused on clarifying audit requirements for proposals and addressing the critical issue of proposal versioning between Ecclesia and Gov tool.
 
-\
-
+<br>
 
 ## Decisions/Actions
 

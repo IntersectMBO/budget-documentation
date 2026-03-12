@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name                | Role                                  |
 | ------------------- | ------------------------------------- |
@@ -17,11 +16,9 @@
 | Dimmitri            | Voting Member                         |
 | Kris Baird          | Voting Member, IOG, Catalyst          |
 
-\
+<br>
 
-
-\
-
+<br>
 
 Transcript:  [https://docs.google.com/document/d/1xWvIfQ-1O9DEiNWAC\_iWr0K6\_NFjGrFe6994grnQwA8/edit?tab=t.4jh33kmx24cy](https://docs.google.com/document/d/1xWvIfQ-1O9DEiNWAC_iWr0K6_NFjGrFe6994grnQwA8/edit?tab=t.4jh33kmx24cy)
 
@@ -32,8 +29,7 @@ Transcript:  [https://docs.google.com/document/d/1xWvIfQ-1O9DEiNWAC\_iWr0K6\_NFj
 * Retrospective Planning and Future Budget Process Design: Focus on developing survey questions for the upcoming retrospective (targeting Rare Evo launch), the strategic goal of simplifying the 2026 budget process, and the importance of communicating Intersect's value to the community.
 
 \
-\
-
+<br>
 
 ## Decisions/Actions
 
@@ -54,4 +50,4 @@ Transcript:  [https://docs.google.com/document/d/1xWvIfQ-1O9DEiNWAC\_iWr0K6\_NFj
 | ADA Price Volatility & Project Payouts                | Discussion clarified that most projects receive ADA as requested, regardless of USD price fluctuations. There's a "gentleman's agreement" for projects to return ADA if its value skyrockets, but tracking this is difficult. Modus is an exception, specifically asking for fiat.                                                                                                    | This remains an "uncomfortable conversation" for the ecosystem, highlighting the risk projects bear.                                                                                 |
 | Travel Rule Implications                              | Chris Baird raised awareness that significant ADA transactions (e.g., from Catalyst) are triggering "Travel Rule" issues with exchanges, freezing funds. Converting to stablecoins could partially alleviate this problem.                                                                                                                                                            | Committee to consider the implications of the Travel Rule in future budget process designs.                                                                                          |
 
-\
+<br>

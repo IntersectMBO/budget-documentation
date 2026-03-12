@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name                | Role                                 |
 | ------------------- | ------------------------------------ |
@@ -19,11 +18,9 @@
 | Kris Baird          | Voting Member, IOG, Catalyst         |
 | Tex McCutchen       | <p><br></p>                          |
 
-\
+<br>
 
-
-\
-
+<br>
 
 Transcript:  [https://docs.google.com/document/d/1C4VTrryFJL8qzev3c2lgikRMKqKxdBCI8SGeqocmnU8/edit?tab=t.c5y48gksoqcj](https://docs.google.com/document/d/1C4VTrryFJL8qzev3c2lgikRMKqKxdBCI8SGeqocmnU8/edit?tab=t.c5y48gksoqcj)
 
@@ -35,14 +32,12 @@ Transcript:  [https://docs.google.com/document/d/1C4VTrryFJL8qzev3c2lgikRMKqKxdB
 
 \
 \
-\
-
+<br>
 
 ## Decisions/Actions
 
 \
-\
-
+<br>
 
 | Topic                                                 | Discussion                                                                                                                                                                                                                                                                                                                                                                                                   | Action Items                                                                                                                                                                                                                   |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -61,4 +56,4 @@ Transcript:  [https://docs.google.com/document/d/1C4VTrryFJL8qzev3c2lgikRMKqKxdB
 | Travel Rule Implications                              | Chris Baird highlighted the emerging "Travel Rule" issue, where significant ADA movements to exchanges/custodians are being flagged, freezing transactions. Converting to stablecoins could partially alleviate this for institutional partners.                                                                                                                                                             | Committee members to be aware of Travel Rule implications as funds move through the ecosystem.                                                                                                                                 |
 | Committee's Role in Future Budgeting                  | The committee discussed questions about its future scope, whether it should be stipended, how to achieve treasury returns, and if Intersect should run the budget process at all (or if other entities should step up).                                                                                                                                                                                      | These questions will inform the larger retrospective report and future strategic discussions.                                                                                                                                  |
 
-\
+<br>

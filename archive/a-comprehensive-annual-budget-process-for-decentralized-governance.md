@@ -11,8 +11,7 @@ This is a draft document and is subject to change. See Version Management for ad
 **Version Management**
 
 \
-\
-
+<br>
 
 | Version | Date         | Contributor(s) | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ------- | ------------ | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -99,20 +98,15 @@ The London Process Workshop provided valuable insights into collaborative decisi
 Several popular and academic sources have contributed to the theoretical underpinnings of the proposed budget process:
 
 1. DARPA Model for Transformational Technologies: This model's approach to high-risk, high- reward research funding and milestone-based project management has informed the structure of project funding and evaluation in the proposed process.\
-   \
-
+   <br>
 2. The Wide Lens: Ron Adner's work on ecosystem strategy has shaped the consideration of interdependencies and ecosystem-wide impacts in budget allocation decisions.\
-   \
-
+   <br>
 3. Start with Why: Simon Sinek's concept of purpose-driven organizations has influenced the alignment of budget priorities with the core mission and values of the Cardano ecosystem.\
-   \
-
+   <br>
 4. Spirit Level: The ideas presented in this work regarding equality and social outcomes have informed the approach to fair resource distribution within the community.\
-   \
-
+   <br>
 5. Prosocial: This framework's emphasis on cooperation and collective action has guided the design of collaborative elements in the budget process.\
-   \
-
+   <br>
 6. Holacracy & Sociocracy: These organizational models have provided insights into distributed authority and decision-making processes, influencing the roles of various stakeholders in the budget management system.
 
 ## The Two-Part Budget Process
@@ -279,8 +273,7 @@ This process should be used in the 2026 Budgeting process.&#x20;
 
 Taking a snapshot from the community about their perception of the highest priority items is a very useful exercise. It will help guide the creation of the budget priorities in alignment with community values.&#x20;
 
-The committee charged with resourcing a particular bucket allocation should utilize Special Interest Groups within the Intersect membership to take these vote preferences. It is important to note that this should be considered as one data point in the creation of the budget priorities for the upcoming year. In addition to this data point, Subject Matter Experts should be consulted, as should other stakeholders in the ecosystem, so that the best possible budget is assembled for the DReps to evaluate.\
-
+The committee charged with resourcing a particular bucket allocation should utilize Special Interest Groups within the Intersect membership to take these vote preferences. It is important to note that this should be considered as one data point in the creation of the budget priorities for the upcoming year. In addition to this data point, Subject Matter Experts should be consulted, as should other stakeholders in the ecosystem, so that the best possible budget is assembled for the DReps to evaluate.<br>
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdbdn33eqEomX-1OXCReW8N56i6mVhTiIVOWrox9kkl4v4h0fDSzvpPU2mOk3Ak2ykaEriIaDh4MN-t2GTerZEE--g5rjMH-c6afKfpvuMvRdl318ZUJYAlkFboa5Htzm0ul2scY7kseOXcAdciW3mtRqjq?key=PSnAGobPvGAFN6ZebknhsA)
 
@@ -493,8 +486,7 @@ By implementing these robust transparency and accountability measures, the budge
 
 Intersect plays a crucial role in the Cardano budget process, serving as a facilitator and coordinator rather than a central authority. This section outlines how Intersect contributes to the process while ensuring that decision-making power remains distributed among the community.
 
-\
-
+<br>
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcWtBxLNiTW2zSneX-M5SVRD6dtYitI7zJXiJ3RaLh3-zc3IvY2_3v7cYtyfFoUVZMHn8iiYhizCl70edzsYSNHU6SkgE2JTa-QbNsoEgwFcfA6khrn182YlCIDHRWrF1mxoWzz_LcmvnVMrkoyFk_1plo?key=PSnAGobPvGAFN6ZebknhsA)
 

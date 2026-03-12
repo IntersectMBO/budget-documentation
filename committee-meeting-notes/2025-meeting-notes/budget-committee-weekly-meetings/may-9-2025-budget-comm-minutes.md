@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name               | Attendance  | Role                                  | Voting Seat (Y/N) |
 | ------------------ | ----------- | ------------------------------------- | ----------------- |
@@ -18,8 +17,7 @@
 Transcript: [https://docs.google.com/document/d/1hq6j4OP-kCZ1y0IFCfPBut\_4L\_Wi4DH-ZkvT3siqQBY/edit?tab=t.awiqeccoeoja](https://docs.google.com/document/d/1hq6j4OP-kCZ1y0IFCfPBut_4L_Wi4DH-ZkvT3siqQBY/edit?tab=t.awiqeccoeoja)
 
 \
-\
-
+<br>
 
 ## Agenda 1.16.25
 
@@ -27,13 +25,11 @@ Transcript: [https://docs.google.com/document/d/1hq6j4OP-kCZ1y0IFCfPBut\_4L\_Wi4
 * clarifying the distinction between budget allocations and treasury withdrawals, and the critical need for improved community communication and education regarding the budget process.&#x20;
 * The team acknowledged the early, "trailblazing" nature of the process and committed to ongoing learning and collaboration.
 
-\
-
+<br>
 
 ## Decisions/Actions
 
-\
-
+<br>
 
 | Topic                                | Discussion                                                                                                                                                                                                                                                                                      | Action Items                                                                                                                                                                                 |
 | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -48,4 +44,4 @@ Transcript: [https://docs.google.com/document/d/1hq6j4OP-kCZ1y0IFCfPBut\_4L\_Wi4
 | Neutrality of Intersect              | Jack Briggs emphasized Intersect's role as a neutral and impartial organization, reflecting the general will of the ecosystem even if outcomes are not universally popular. He noted that current over-caution stems from lack of mature tooling and experience.                                | Maintain Intersect's neutral stance while effectively communicating trade-offs and rationale behind budget decisions.                                                                        |
 | Lessons Learned & Path Forward       | The meeting served as a reflection on the challenges encountered. The team committed to moving forward, working together to find solutions, and acknowledging the absence of a "playbook."                                                                                                      | Lloyd Duhon to publish the agenda for Monday's meeting and welcome additional items.                                                                                                         |
 
-\
+<br>

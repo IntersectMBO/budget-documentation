@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name                                | Attendance | Role                                                                                                | Voting Seat (Y/N) |
 | ----------------------------------- | ---------- | --------------------------------------------------------------------------------------------------- | ----------------- |
@@ -21,8 +20,7 @@
 | Shunsuke Murasaki                   | Yes        | Former Voting Member, Mentor, Emurgo                                                                | <p><br></p>       |
 | Simo Simovic                        | Yes        | Intersect Staff                                                                                     | <p><br></p>       |
 
-\
-
+<br>
 
 * Name - Observer
 
@@ -30,13 +28,11 @@
 
 Recording: [https://drive.google.com/file/d/1vTy9DSkyw17aOnT3nuKSN9Tkj0vqhmLv/view?usp=drive\_link](https://drive.google.com/file/d/1vTy9DSkyw17aOnT3nuKSN9Tkj0vqhmLv/view?usp=drive_link)
 
-\
-
+<br>
 
 Transcript: [https://docs.google.com/document/d/14WSag6Tpjs58lLG7fysmZmOuympQN8EIIAyymr93jmo/edit?tab=t.0#heading=h.a72v9rbbceao](https://docs.google.com/document/d/14WSag6Tpjs58lLG7fysmZmOuympQN8EIIAyymr93jmo/edit?tab=t.0#heading=h.a72v9rbbceao)
 
-\
-
+<br>
 
 ## Agenda 1.16.25
 
@@ -44,13 +40,11 @@ Transcript: [https://docs.google.com/document/d/14WSag6Tpjs58lLG7fysmZmOuympQN8E
 * Timeline and Net Change Limit (NCL) Review: Updates on the revised budget timeline, the proposed delay for the NCL decision, and the various models being considered for the NCL.
 * Working Group Progress and Committee Integration: Reports from the Audit and newly formed Smart Contract working groups, alongside an overarching discussion on improving committee involvement and communication within the evolving budget framework.
 
-\
-
+<br>
 
 ## Decisions/Actions
 
-\
-
+<br>
 
 | Topic                                        | Discussion                                                                                                                                                                                                                                                                                                                                                                                                | Action Items                                                                                                                      |
 | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -70,4 +64,4 @@ Transcript: [https://docs.google.com/document/d/14WSag6Tpjs58lLG7fysmZmOuympQN8E
 | Committee Communication Strategy             | Jose Velazquez requested a simplified way for working group leads to use the Cardano budget committee Twitter. Lawrence Clark agreed to expand access to the Twitter account and asked for messages to be filtered through Lloyd Duhon for initial review and coordination.                                                                                                                               | All committee members to filter their desired public communications through Lloyd Duhon for coordination.                         |
 | Motion to Adopt New Process                  | A motion was made by JJ Siler and seconded by Jose Velazquez to move forward with the new timeline and proposal. The motion passed with a vote of six in favor to three against.                                                                                                                                                                                                                          | <p><br></p>                                                                                                                       |
 
-\
+<br>

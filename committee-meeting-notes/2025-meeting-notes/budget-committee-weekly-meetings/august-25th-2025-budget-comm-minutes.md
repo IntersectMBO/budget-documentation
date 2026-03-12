@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name              | Role                                 |
 | ----------------- | ------------------------------------ |
@@ -12,11 +11,9 @@
 | Shunsuke Murasaki | Former Voting Member, Mentor, Emurgo |
 | Gerard Moroney    | Board Member                         |
 
-\
+<br>
 
-
-\
-
+<br>
 
 [Transcript:  https://docs.google.com/document/d/1bmL10lWLu5xNJDvmHIjvbD3-1ltwEAC04o-2XIERCgg/edit?tab=t.vwmfqtp6x5gr](https://docs.google.com/document/d/1bmL10lWLu5xNJDvmHIjvbD3-1ltwEAC04o-2XIERCgg/edit?tab=t.vwmfqtp6x5gr)
 
@@ -28,8 +25,7 @@
 
 ## Decisions/Actions
 
-\
-
+<br>
 
 | Topic                                | Discussion                                                                                                                                                                                                                                                                                                                                                               | Action Items                                                                                                                                                                                           |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -43,4 +39,4 @@
 | Audit Process Update                 | Lloyd Duhon updated the committee on the audit process, stating that a digital assets auditor CPA firm has been engaged. They have requested information from Intersect to provide a full quote. The goal is to have the auditor in place by the end of Q4.                                                                                                              | Lloyd Duhon to work with Nick to provide the necessary information to the auditor for a full quote.                                                                                                    |
 | Budget Committee Meeting Attendance  | There was a discussion about member participation and quorum. A formal process for members who miss more than four meetings has been established, potentially leading to resignation to ensure consistent attendance. Rita Mistry requested moving the weekly meeting from Wednesday to another day to accommodate her schedule.                                         | Lloyd Duhon to send out a list of action items from today's meeting via email and Discord. \<br> Lloyd Duhon to investigate moving the Wednesday meeting to Tuesday or Thursday to improve attendance. |
 
-\
+<br>

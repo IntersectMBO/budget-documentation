@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name                               | Attendance  | Role                                 | Voting Seat (Y/N) |
 | ---------------------------------- | ----------- | ------------------------------------ | ----------------- |
@@ -17,21 +16,18 @@
 | Mercy                              | <p><br></p> | Voting Member, WADA                  | <p><br></p>       |
 | Shunsuke Murasaki                  | <p><br></p> | Former Voting Member, Mentor, Emurgo | <p><br></p>       |
 
-\
-
+<br>
 
 &#x20;
 
 Recording: [https://drive.google.com/file/d/1nVog9HuQTiDxN3wzMkO8JVLwDmMbwA0S/view?usp=drive\_link](https://drive.google.com/file/d/1nVog9HuQTiDxN3wzMkO8JVLwDmMbwA0S/view?usp=drive_link)
 
-\
-
+<br>
 
 Transcript: [https://docs.google.com/document/d/1NG48kCdy0CY64ncz18G5U74VUhfKX5z\_CcimrS2mVMs/edit?tab=t.0](https://docs.google.com/document/d/1NG48kCdy0CY64ncz18G5U74VUhfKX5z_CcimrS2mVMs/edit?tab=t.0)
 
 \
-\
-
+<br>
 
 ## Agenda 1.16.25
 
@@ -39,13 +35,11 @@ Transcript: [https://docs.google.com/document/d/1NG48kCdy0CY64ncz18G5U74VUhfKX5z
 * Discussions covered prioritizing proposals based on DREP input and committee alignment, while addressing concerns about the overall process and potential DREP workload.
 * The meeting also explored the idea of directing certain proposals to Catalyst to streamline the budget allocation process.
 
-\
-
+<br>
 
 ## Decisions/Actions
 
-\
-
+<br>
 
 | Topic                                             | Discussion                                                                                                                                                                                                                                                                                                                                                        | Action Items                                                                                                                                                                              |
 | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

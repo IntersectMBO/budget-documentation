@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name               | Role                                      |
 | ------------------ | ----------------------------------------- |
@@ -18,11 +17,9 @@
 | Nicolas Cerny      | Observer, Cardano Foundation Staff        |
 | Marc Gorman        | Program Manager Budget Task Force         |
 
-\
+<br>
 
-
-\
-
+<br>
 
 Transcript: [https://docs.google.com/document/d/1CVKrtA6IwC6vLQlPkS91vi-1poaO4SX28fMbZ7L4xJ0/edit?tab=t.ga500vo9n2t2](https://docs.google.com/document/d/1CVKrtA6IwC6vLQlPkS91vi-1poaO4SX28fMbZ7L4xJ0/edit?tab=t.ga500vo9n2t2)
 
@@ -34,13 +31,11 @@ Committee Structure and Governance Reform: Discussions began on merging existing
 
 External and Future Process Awareness: The committee addressed the need to monitor Utah's proposed constitutional changes and began planning for the 2026 budget process retrospective, including logistics for a hybrid event.
 
-\
-
+<br>
 
 ## Decisions/Actions
 
-\
-
+<br>
 
 | Topic                                       | Discussion                                                                                                                                                                                        | Action Items                                                                                                                                      |
 | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -58,4 +53,4 @@ External and Future Process Awareness: The committee addressed the need to monit
 | Vendor Relationships                        | The committee briefly discussed the relationship between Intersect and vendors, and the need to manage contracts effectively.                                                                     | <p><br></p>                                                                                                                                       |
 | Financial Audit for 2024                    | The committee briefly discussed the financial audit for 2024.                                                                                                                                     | <p><br></p>                                                                                                                                       |
 
-\
+<br>

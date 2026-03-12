@@ -1,7 +1,6 @@
 # Jan 20, 2025 Budget Meeting Notes
 
-\
-
+<br>
 
 <table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Role</td><td valign="top">Name</td><td valign="top">Voting member</td></tr><tr><td valign="top">Chair</td><td valign="top">Steven Lupien</td><td valign="top">Yes</td></tr><tr><td valign="top">Member</td><td valign="top">Jeffrey Siler</td><td valign="top">Yes</td></tr><tr><td valign="top">Member</td><td valign="top">Kriss Baird</td><td valign="top">Yes</td></tr><tr><td valign="top">Member</td><td valign="top">Shunsuke Murasaki</td><td valign="top">Yes</td></tr><tr><td valign="top">Member</td><td valign="top">Rita Mistry</td><td valign="top">Yes</td></tr><tr><td valign="top">Member</td><td valign="top">Mercy Fordwoo</td><td valign="top">Yes</td></tr><tr><td valign="top">Member</td><td valign="top">Jose Velazquez</td><td valign="top">Yes</td></tr><tr><td valign="top">Member</td><td valign="top">Kristijan Kowalsky</td><td valign="top">Yes</td></tr><tr><td valign="top">Member</td><td valign="top">Pepe Otegui</td><td valign="top">Yes</td></tr></tbody></table>
 

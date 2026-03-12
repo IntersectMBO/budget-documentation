@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name                                | Attendance  | Role                         | Voting Seat (Y/N) |
 | ----------------------------------- | ----------- | ---------------------------- | ----------------- |
@@ -22,8 +21,7 @@
 
 Recording: [https://drive.google.com/file/d/1z88jBlCZbG4KJ0aPD7PldtmOIPKMVdHB/view?usp=drive\_link](https://drive.google.com/file/d/1z88jBlCZbG4KJ0aPD7PldtmOIPKMVdHB/view?usp=drive_link)
 
-\
-
+<br>
 
 Transcript: [https://docs.google.com/document/d/1xLNZ3sxczOe2DEgGqHqPlndXyplLAA6hmr19yE1y\_L0/edit?tab=t.0](https://docs.google.com/document/d/1xLNZ3sxczOe2DEgGqHqPlndXyplLAA6hmr19yE1y_L0/edit?tab=t.0)
 
@@ -34,13 +32,11 @@ Transcript: [https://docs.google.com/document/d/1xLNZ3sxczOe2DEgGqHqPlndXyplLAA6
 * The meeting also covered the status of vendor proposals, tooling integration, and the need to finalize decisions on the threshold for proposals to enter the Budget Info Action.
 
 \
-\
-
+<br>
 
 ## Decisions/Actions
 
-\
-
+<br>
 
 | Topic                                              | Discussion                                                                                                                                                                                                                                                                                                                       | Action Items                                                                                                                                                    |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |

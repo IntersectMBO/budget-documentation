@@ -48,8 +48,7 @@ Weekly Educational Posts - Lloyd to Calendar and present
 
 ## November Workshops
 
-1. [https://lu.ma/cardanobudgetprocess\
-   ](https://lu.ma/cardanobudgetprocess)Dates:&#x20;
+1. [https://lu.ma/cardanobudgetprocess<br>](https://lu.ma/cardanobudgetprocess)Dates:&#x20;
    1. 05 11 24 - AMA&#x20;
    2. 07 11 24 - AMA&#x20;
    3. 13 11 24 - AMA/Committee presentation&#x20;
@@ -79,13 +78,11 @@ How would the committee like to manage these?
 
 **Option 3**: Reject the request and ask them to raise it directly to the CC/DReps.
 
-**Unanimous decision** to proceed with Option 1\
+**Unanimous decision** to proceed with Option 1<br>
 
 
 
-
-\
-
+<br>
 
 
 

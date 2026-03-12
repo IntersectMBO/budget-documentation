@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name               | Attendance | Role                                                                                                | Voting Seat (Y/N) |
 | ------------------ | ---------- | --------------------------------------------------------------------------------------------------- | ----------------- |
@@ -18,8 +17,7 @@
 | Mercy              | Yes        | Voting Member, WADA                                                                                 | <p><br></p>       |
 | Adam Rusch         | Yes        | Intersect Board Member                                                                              | <p><br></p>       |
 
-\
-
+<br>
 
 &#x20;
 
@@ -51,4 +49,4 @@ Transcript: [https://docs.google.com/document/d/10cEyZGD-LX6U1cqhdH5vOY01dle4bQf
 | Intersect's Administration Plan (Contingency) | Jack Briggs is currently focusing on securing funding for Intersect and has not fully developed a contingency plan if Intersect's proposal is voted down. He acknowledges the severe implications, including disbanding committees and altered member services. Adam Rusch suggested a statement detailing Intersect's reforms and the allocation, not guaranteed disbursement, of funds. | Jack Briggs to discuss Intersect's reforms and allocation vs. disbursement at the board meeting. Dave Dionisio to share his document on roles, responsibilities, and TSC audits with Jack. |
 | Contract Management Process                   | Intersect has identified a single accountable lead for the contract management process. Jack Briggs proposes bringing this lead into status calls for updates and initial feedback from the budget committee and vendors.                                                                                                                                                                 | Jack Briggs to connect the new contract management PM with Marc Gorman and Lloyd Duhon, and integrate them into budget task force meetings.                                                |
 
-\
+<br>

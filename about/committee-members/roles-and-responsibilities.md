@@ -2,8 +2,7 @@
 
 ## Roles / Responsibilities
 
-\
-
+<br>
 
 | Role           | Qualifications/Position                                                                                                                                                   | Responsibility                                                                                                                                                                             |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -15,8 +14,7 @@
 
 Roles that are beneficial to the business of the committee. These roles will act as subject matter experts to provide insight to the committee members. These roles will be filled in working groups with at least one voting member of the committee and roles as needed for the committee business.
 
-\
-
+<br>
 
 | Role                  | Qualifications/Position                                                                                                                                                                                                               | Responsibility                                                                                                     |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -31,11 +29,10 @@ Roles that are beneficial to the business of the committee. These roles will act
 | Quantitative Analysis | <ul><li>Strong background in statistics, data science, or economics</li><li>Experience in financial modeling and forecasting</li><li>Familiarity with blockchain analytics and on-chain data analysis</li></ul>                       | Modeling and Guidance for treasury expenditures.                                                                   |
 | Innovation Strategy   | <ul><li>Strong background in technology enabled innovation </li><li>Experience in blockchain industrial strategy</li><li>Ability to synthesize and interpret blockchain business data, trends and form innovation horizons </li></ul> | Ensure that proposals submitted to the committee are relevant, timely, and appropriately informed opportunities    |
 
-\
-
+<br>
 
 ## Subject Matter Experts
 
 The Budget Committee shall follow the recommendations of the Community Advisory Body for the engaging of subject matter experts as located in: [Consultant and Subject Matter Expert Recommendations](https://docs.google.com/document/d/1glkQw6m6bpoyG4dAQPK-ffqnCa0oNbjrzWM5sxkYUGg/edit?usp=sharing)
 
-\
+<br>

@@ -26,8 +26,7 @@ Attendees:
 
 Recording: [https://drive.google.com/file/d/1aQnRIe7xEyPH7gAzb2yyohErbV36T1ak/view?usp=drive\_link](https://drive.google.com/file/d/1aQnRIe7xEyPH7gAzb2yyohErbV36T1ak/view?usp=drive_link)
 
-\
-
+<br>
 
 Transcript: [https://docs.google.com/document/d/1-8R0fUpwIR7An7hocBdmtyUAKutuWT5zNWP\_QfjsI3g/edit?tab=t.0#heading=h.uyq9dorch0rm](https://docs.google.com/document/d/1-8R0fUpwIR7An7hocBdmtyUAKutuWT5zNWP_QfjsI3g/edit?tab=t.0#heading=h.uyq9dorch0rm)
 
@@ -37,13 +36,11 @@ Transcript: [https://docs.google.com/document/d/1-8R0fUpwIR7An7hocBdmtyUAKutuWT5
 * Budget Structuring and Financials: Topics covered splitting the overall budget into multiple proposals, the specific request to separate core maintenance funding, and ongoing discussions regarding the Net Change Limit (NCL) and its constitutional implications.
 * Enhancing Committee Operations and Communication: Addressing internal issues like ClickUp access, strategizing to improve the reach and clarity of budget communications, and receiving updates from the Audit and Tax working groups on their progress and needs.
 
-\
-
+<br>
 
 ## Decisions/Actions
 
-\
-
+<br>
 
 | Topic                                          | Discussion                                                                                                                                                                                                                                                                                                                                                                              | Action Items                                                                                                                                                                                                                                                                                     |
 | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -60,4 +57,4 @@ Transcript: [https://docs.google.com/document/d/1-8R0fUpwIR7An7hocBdmtyUAKutuWT5
 | Motion to Adopt New Process & Timeline         | A motion was made by JJ Siler and seconded by Jose Velazquez to move forward with the new timeline and budget process proposal in its early state, including the net change limit plan.                                                                                                                                                                                                 | <p><br></p>                                                                                                                                                                                                                                                                                      |
 | Vote on New Process & Timeline                 | The motion was put to a vote. Andreas Pletscher and Mercy voted no, expressing concerns about complexity and clarity. Kriss Baird also voted no, specifically on delaying the NCL by four weeks. The motion passed with 6 'Yes' votes to 3 'No' votes.                                                                                                                                  | <p><br></p>                                                                                                                                                                                                                                                                                      |
 
-\
+<br>

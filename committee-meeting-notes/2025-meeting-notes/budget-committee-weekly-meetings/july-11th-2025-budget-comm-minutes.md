@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name                                            | Role                                       |
 | ----------------------------------------------- | ------------------------------------------ |
@@ -16,11 +15,9 @@
 | Dave Dionisio                                   | Board Member, IOG Staff, Budget Task Force |
 | Mercy                                           | Voting Member, WADA                        |
 
-\
+<br>
 
-
-\
-
+<br>
 
 Transcript:  [https://docs.google.com/document/d/1nTAZaeOz\_FH9vNBFGTarBUW9kNZg\_qNd5X4TFtRDnRw/edit?pli=1\&tab=t.wha49926fis6](https://docs.google.com/document/d/1nTAZaeOz_FH9vNBFGTarBUW9kNZg_qNd5X4TFtRDnRw/edit?pli=1\&tab=t.wha49926fis6)
 
@@ -29,12 +26,10 @@ Transcript:  [https://docs.google.com/document/d/1nTAZaeOz\_FH9vNBFGTarBUW9kNZg\
 * Imminent Treasury Withdrawal Deployment: The committee received updates on the final preparations for submitting all 39 governance actions, including the confirmation of the independent oversight committee, smart contract deployment, and the critical metadata review process.
 * Enhancing DREP Engagement for Voting: Discussions highlighted the urgent need to motivate DREPs to vote on the numerous withdrawal actions, clarify the "non-vote equals no" rule, and provide user-friendly voting guides and dashboards.
 * Strategic Planning for Future Governance & Committee Operations: The meeting touched on upcoming events like Rare Evo's Governance Day, the initiation of the budget process retrospective (including survey planning), and ongoing efforts to refine committee governing documents.
-* \
-
+* <br>
 
 \
-\
-
+<br>
 
 ## Decisions/Actions
 
@@ -53,4 +48,4 @@ Transcript:  [https://docs.google.com/document/d/1nTAZaeOz\_FH9vNBFGTarBUW9kNZg\
 | DREP Voting Dashboard                           | Jack Briggs confirmed that a DREP voting/whipping dashboard will be spun up and shared with the committee to track voting progress and target outreach.                                                                                                                                                         | Jack Briggs to share the DREP voting dashboard with the committee.                                                                 | <p><br></p> |
 | Request for Metadata Comment Access             | The current metadata document is view-only, hindering feedback. Lloyd Duhon will ask Ryan to enable comment access or serve as a conduit for consolidated feedback.                                                                                                                                             | Lloyd Duhon to contact Ryan to enable commenting on the metadata document or offer to consolidate feedback from the committee/ISC. | <p><br></p> |
 
-\
+<br>

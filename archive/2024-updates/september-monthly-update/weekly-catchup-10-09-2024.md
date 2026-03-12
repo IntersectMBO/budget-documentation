@@ -22,4 +22,4 @@ Action items were outlined, including adjusting the timeline for representative 
 
 Throughout the meeting, participants stressed the importance of transparency, effective communication, and safeguarding financial resources. The discussion concluded with plans to further analyze and document the process, develop a clear timeline, and create a comprehensive communication strategy.
 
-\
+<br>

@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name               | Role                                       |
 | ------------------ | ------------------------------------------ |
@@ -18,11 +17,9 @@
 | Rita               | Former Voting Member, Cardano Foundation.  |
 | Nicolas Cerny      | Observer, Cardano Foundation Staff         |
 
-\
+<br>
 
-
-\
-
+<br>
 
 Transcript: [https://docs.google.com/document/d/1JjlTq23dfw5zGYT0lhj7vICqvdncuryeLpVa1YavcbM/edit?tab=t.4pmub8841uh4](https://docs.google.com/document/d/1JjlTq23dfw5zGYT0lhj7vICqvdncuryeLpVa1YavcbM/edit?tab=t.4pmub8841uh4)
 
@@ -33,13 +30,11 @@ Transcript: [https://docs.google.com/document/d/1JjlTq23dfw5zGYT0lhj7vICqvdncury
 * Enhancing Committee Communication and Outreach: Strategies were discussed to reactivate and improve the Cardano Budget Committee's X (Twitter) account for better DREP engagement and transparent updates, including a shift to anonymous attribution in public reports.
 
 \
-\
-
+<br>
 
 ## Decisions/Actions
 
-\
-
+<br>
 
 | Topic                                               | Discussion                                                                                                                                                                                                                                                                                                                     | Action Items                                                                                                                                                                                                                                                                                                                      |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -55,4 +50,4 @@ Transcript: [https://docs.google.com/document/d/1JjlTq23dfw5zGYT0lhj7vICqvdncury
 | Committee Communication Strategy (X Account)        | The Chair proposed reactivating the Cardano Budget Committee X (Twitter) account for DREP engagement on withdrawal actions. A committee member suggested regular post-meeting summaries for public consumption to ensure consistent communication. Another committee member preferred anonymous attribution in public reports. | The Budget Committee Secretary to add post-meeting summaries to the X account as part of the standard process, following Chatham House Rules (anonymous attribution for individual comments). \&lt;br> The Budget Committee Secretary to set up a process for committee members to request social media posts with a 24-hour SLA. |
 | Next Steps for Document Reformation                 | The Budget Committee Secretary will create draft replacement policies for the Code of Conduct, Arbitration, and Escalation & Grievance based on today's discussions. The committee will vote on these drafts and then tackle the charter next week.                                                                            | The Budget Committee Secretary to create draft replacement policies for Code of Conduct, Arbitration, and Escalation & Grievance for review and vote next week. \&lt;br> All committee members to prepare to discuss the charter next week.                                                                                       |
 
-\
+<br>

@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name                                | Attendance | Role                                                                                                | Voting Seat (Y/N) |
 | ----------------------------------- | ---------- | --------------------------------------------------------------------------------------------------- | ----------------- |
@@ -26,8 +25,7 @@
 
 Recording: [https://drive.google.com/file/d/1QmIgyNf-pzZ1jEzr7X6tEgYyOkb4J\_iD/view?usp=drive\_link](https://drive.google.com/file/d/1QmIgyNf-pzZ1jEzr7X6tEgYyOkb4J_iD/view?usp=drive_link)
 
-\
-
+<br>
 
 Transcript: [https://docs.google.com/document/d/1D8dGACcRI1XEjfa2gM2hbCtFDjyXAduqaRGXb9\_YLLY/edit?tab=t.0#heading=h.8kh156ve81n0](https://docs.google.com/document/d/1D8dGACcRI1XEjfa2gM2hbCtFDjyXAduqaRGXb9_YLLY/edit?tab=t.0#heading=h.8kh156ve81n0)
 
@@ -39,13 +37,11 @@ Transcript: [https://docs.google.com/document/d/1D8dGACcRI1XEjfa2gM2hbCtFDjyXAdu
 * Net Change Limit (NCL) Review & Vote: Debate and vote on adjusting the 2025 Net Change Limit, including clarification on 2024 treasury income figures.
 * Committee Engagement & Communication: Discussion on the Budget Committee's role in message amplification, community conversations, and promoting asynchronous participation, along with updates on new blog posts.
 
-\
-
+<br>
 
 ## Decisions/Actions
 
-\
-
+<br>
 
 | Topic                                          | Discussion                                                                                                                                                                                                                                                                                                                                                                         | Action Items                                                                                                                                                                                                                   |
 | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

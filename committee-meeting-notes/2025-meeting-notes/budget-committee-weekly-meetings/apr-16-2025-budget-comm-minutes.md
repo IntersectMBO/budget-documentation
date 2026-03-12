@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name               | Attendance  | Role                                                       | Voting Seat (Y/N) |
 | ------------------ | ----------- | ---------------------------------------------------------- | ----------------- |
@@ -18,21 +17,18 @@
 | Mercy              | <p><br></p> | Voting Member, WADA                                        | <p><br></p>       |
 | Prof. Steven       | <p><br></p> | Former Voting Member, Mentor, Chairman of Intersect Board. | <p><br></p>       |
 
-\
-
+<br>
 
 &#x20;
 
 Recording: [https://drive.google.com/file/d/1nc1yTcYtqeIEvAFqROM6d96aYzvuvQ8u/view?usp=drive\_link](https://drive.google.com/file/d/1nc1yTcYtqeIEvAFqROM6d96aYzvuvQ8u/view?usp=drive_link)
 
-\
-
+<br>
 
 Transcript: [https://docs.google.com/document/d/1kiMdbpUqBu1bGWgLPLWWtVSyir1GMIh-xfiQ1zNOrgI/edit?tab=t.0#heading=h.dhv65uxm96d1](https://docs.google.com/document/d/1kiMdbpUqBu1bGWgLPLWWtVSyir1GMIh-xfiQ1zNOrgI/edit?tab=t.0#heading=h.dhv65uxm96d1)
 
 \
-\
-
+<br>
 
 ## Agenda 1.16.25
 
@@ -41,13 +37,11 @@ Transcript: [https://docs.google.com/document/d/1kiMdbpUqBu1bGWgLPLWWtVSyir1GMIh
 * The meeting also covered the logistics of multi-vendor proposals, the need for DREP preparation materials, and a strategic approach to budget allocation across categories.
 
 \
-\
-
+<br>
 
 ## Decisions/Actions
 
-\
-
+<br>
 
 | Topic                                            | Discussion                                                                                                                                                                                                                                                                                                                                                                                                                            | Action Items                                                                                                                                                 |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |

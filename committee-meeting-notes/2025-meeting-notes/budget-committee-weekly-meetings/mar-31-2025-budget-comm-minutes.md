@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name               | Attendance  | Role                                                       | Voting Seat (Y/N) |
 | ------------------ | ----------- | ---------------------------------------------------------- | ----------------- |
@@ -20,21 +19,18 @@
 | Shunsuke Murasaki  | <p><br></p> | Former Voting Member, Mentor, Emurgo                       | <p><br></p>       |
 | Simo Simovic       | <p><br></p> | Intersect Staff                                            | <p><br></p>       |
 
-\
-
+<br>
 
 &#x20;
 
 Recording: [https://drive.google.com/file/d/1drNTagQpDjFhL0ZDApteJpS2801586XQ/view?usp=drive\_link](https://drive.google.com/file/d/1drNTagQpDjFhL0ZDApteJpS2801586XQ/view?usp=drive_link)
 
-\
-
+<br>
 
 Transcript: [https://docs.google.com/document/d/1r3gje8\_O72VQXEeohww\_vqXdn-hcxfdzHDO2J8r4KEM/edit?tab=t.0](https://docs.google.com/document/d/1r3gje8_O72VQXEeohww_vqXdn-hcxfdzHDO2J8r4KEM/edit?tab=t.0)
 
 \
-\
-
+<br>
 
 ## Agenda 1.16.25
 
@@ -43,13 +39,11 @@ Transcript: [https://docs.google.com/document/d/1r3gje8\_O72VQXEeohww\_vqXdn-hcx
 * Attendees also reviewed the proposed process flow for moving proposals to a final budget, along with updates on smart contract development and contingency planning for Net Change Limit scenarios.
 
 \
-\
-
+<br>
 
 ## Decisions/Actions
 
-\
-
+<br>
 
 | Topic                                         | Discussion                                                                                                                                                                                                                                                                                                                  | Action Items                                                                                                                          |
 | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -67,4 +61,4 @@ Transcript: [https://docs.google.com/document/d/1r3gje8\_O72VQXEeohww\_vqXdn-hcx
 | Net Change Limit (NCL) Discussion             | The ongoing NCL debate includes discussions about two periods (2025/2026) and how a new NCL would replace existing ones. The plain language of the constitution allows only a single NCL at any time.                                                                                                                       | Review the proposed 2026 NCL and prepare for future discussions on NCL strategy.                                                      |
 | Meeting Time Zone (UTC vs. BST)               | A discussion is needed to determine a stable meeting time, considering daylight savings and optimal UTC/BST hours, to be decided when more voting members are present.                                                                                                                                                      | Schedule an asynchronous vote or discussion to determine a stable meeting time, including time zone.                                  |
 
-\
+<br>

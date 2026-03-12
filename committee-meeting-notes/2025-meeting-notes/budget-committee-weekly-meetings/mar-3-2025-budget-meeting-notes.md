@@ -26,8 +26,7 @@
 
 * Rita Mistry (official seat held by Andreas as proxy)
 
-\
-
+<br>
 
 ### Agenda
 
@@ -36,8 +35,7 @@
 3. **DRep Involvement & Committee Roles**
 4. **Vote on Revised Process and Timelines**
 
-\
-
+<br>
 
 ### Summary
 
@@ -60,8 +58,7 @@ Key points:
 * **Concerns & Reservations**:\
   Several members emphasized that adding complexity might risk further delay. Others worried about ensuring DReps can handle the volume of proposals. Despite these concerns, the committee agreed to proceed with the revised process, subject to continued monitoring and engagement with DReps.
 
-\
-
+<br>
 
 ### Budget Process Pivot Discussion
 
@@ -117,4 +114,4 @@ Those voting “no” cited concerns about complexity and schedule slippage but 
    * **Deadline**: Before March 25
    * **Description**: Provide Intersect’s model of funds draw down, CF’s Monte Carlo, and the Civics’ percentage-based proposal in a central location accessible to DReps.
 
-\
+<br>

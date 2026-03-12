@@ -25,13 +25,11 @@ Transcript: [https://docs.google.com/document/d/15x-Ku\_yrD5rnIv9Oj-hfXDKbreN\_s
 * Operationalizing Smart Contract Disbursements: Discussions focused on the "happy path" for fund flow, the status of vendor contracts, and the committee's role in reviewing upcoming treasury actions for compliance.
 * Committee Governance and Future Planning: The meeting addressed the reformation of the committee's governing documents, including proposed changes to the charter, and initiated planning for the 2026 budget retrospective.
 
-\
-
+<br>
 
 ## Decisions/Actions
 
-\
-
+<br>
 
 | Topic                                               | Discussion                                                                                                                                                                                                                                                                                                            | Action Items                                                                                                                                     |
 | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -50,4 +48,4 @@ Transcript: [https://docs.google.com/document/d/15x-Ku\_yrD5rnIv9Oj-hfXDKbreN\_s
 | "Spending the Horizon" Modeling                     | Demitri expressed strong support for adding "spending the horizon" modeling to the ToR. Kristijan Kowalsski suggested that initial modeling could be done internally via Excel, with more advanced tooling (dashboards, projections) potentially sourced from Intersect or Open Source Committee grants in 2026.      | Committee to discuss how to implement "spending the horizon" modeling, potentially starting manually for initial demonstration.                  |
 | Community Engagement Document Review                | Lloyd Duhon highlighted the "Community Engagement" governing document needs review, as its original budget and staffing have been removed.                                                                                                                                                                            | Committee members to prioritize review of the "Community Engagement" governing document for reformation.                                         |
 
-\
+<br>

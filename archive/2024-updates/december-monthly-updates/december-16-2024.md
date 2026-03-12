@@ -84,8 +84,7 @@ Lawrence noted that due to the changes to the constitution, the budget proposal 
 
 All agreed that the next budget committee would in January 2025.
 
-\
-
+<br>
 
 
 

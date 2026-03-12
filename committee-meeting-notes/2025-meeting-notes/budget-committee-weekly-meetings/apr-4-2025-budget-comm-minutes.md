@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name               | Attendance  | Role                                                       | Voting Seat (Y/N) |
 | ------------------ | ----------- | ---------------------------------------------------------- | ----------------- |
@@ -17,20 +16,17 @@
 | Mercy              | Yes         | Voting Member, WADA                                        | <p><br></p>       |
 | Prof. Steven       | <p><br></p> | Former Voting Member, Mentor, Chairman of Intersect Board. | <p><br></p>       |
 
-\
-
+<br>
 
 &#x20;
 
 Recording: [https://drive.google.com/file/d/1Is3MLWsAP-zbUHNSNKSVU3FsInKpVKbS/view?usp=drive\_link](https://drive.google.com/file/d/1Is3MLWsAP-zbUHNSNKSVU3FsInKpVKbS/view?usp=drive_link)
 
-\
-
+<br>
 
 Transcript: [https://docs.google.com/document/d/1ANHf3XUeNojE\_m4tgD090pD1t-Hddw5lwFbGhAhxy6o/edit?tab=t.0#heading=h.d1ko0n9g4qpx](https://docs.google.com/document/d/1ANHf3XUeNojE_m4tgD090pD1t-Hddw5lwFbGhAhxy6o/edit?tab=t.0#heading=h.d1ko0n9g4qpx)
 
-\
-
+<br>
 
 ## Agenda 1.16.25
 
@@ -39,13 +35,11 @@ Transcript: [https://docs.google.com/document/d/1ANHf3XUeNojE\_m4tgD090pD1t-Hddw
 * The meeting also touched upon key governance topics for DREP discussion, such as the relationship between the Net Change Limit and budget size, and the handling of unspent funds.
 
 \
-\
-
+<br>
 
 ## Decisions/Actions
 
-\
-
+<br>
 
 | Topic                                   | Discussion                                                                                                                                                                                                                                                                                                                                     | Action Items                                                                        |
 | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |

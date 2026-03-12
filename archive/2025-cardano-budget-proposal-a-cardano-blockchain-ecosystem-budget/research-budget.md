@@ -237,8 +237,7 @@ The product research bucket aims to fund all research activities that can provid
 *   To inform the broad topic: Get more Usage\
     Related Goal: Attract dApps and users - product market fit\
     Related Problem to solve: How Might We attract more dApps, users, and protocols to Cardano (to increase transaction activity which will ultimately fund the treasury)?\
-    \
-
+    <br>
 
     Questions:
 
@@ -256,8 +255,7 @@ The product research bucket aims to fund all research activities that can provid
 
 
     Related Goal: Easier to build on and to use Cardano\
-    Related Problem to solve: How Might We reduce barriers and simplify processes for using and building on the Cardano blockchain?\
-
+    Related Problem to solve: How Might We reduce barriers and simplify processes for using and building on the Cardano blockchain?<br>
 
     Questions:
 
@@ -270,8 +268,7 @@ The product research bucket aims to fund all research activities that can provid
     \
     \
     Related Goal: Cardano competitive option\
-    Related Problem to solve: How Might We make Cardano meet the needs of apps that want to build on it (in terms of speed of transactions and speed of development), so being competitive with other options and getting more users?\
-
+    Related Problem to solve: How Might We make Cardano meet the needs of apps that want to build on it (in terms of speed of transactions and speed of development), so being competitive with other options and getting more users?<br>
 
     Questions:
 
@@ -289,8 +286,7 @@ The product research bucket aims to fund all research activities that can provid
     \
     Related Goal: Clear funding mechanisms\
     Related Problem to solve: How might we develop effective funding mechanisms for Cardano projects and businesses (both from inside and outside the ecosystem)?\
-    \
-
+    <br>
 
     Questions:
 
@@ -317,8 +313,7 @@ The product research bucket aims to fund all research activities that can provid
 
 *   To inform the broad topic: Governance\
     Related Goal: Reliable decentralized governance\
-    Related Problem to solve: How Might We make the new Cardano governance strong enough to support the newly formed Cardano government?\
-
+    Related Problem to solve: How Might We make the new Cardano governance strong enough to support the newly formed Cardano government?<br>
 
     Questions:
 

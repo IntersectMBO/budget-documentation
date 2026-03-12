@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name               | Attendance | Role                                                                                                | Voting Seat (Y/N) |
 | ------------------ | ---------- | --------------------------------------------------------------------------------------------------- | ----------------- |
@@ -17,13 +16,11 @@
 | Mercy              | Yes        | Voting Member, WADA                                                                                 | <p><br></p>       |
 | Danielle Stanko    | Yes        | Budget Task Force, IOG Staff                                                                        | <p><br></p>       |
 
-\
-
+<br>
 
 Transcript: [https://docs.google.com/document/d/1YLjwZ3N0-TAXKzHyn1gYl\_gDmXaIfAfqtfW6K-Bpv-M/edit?tab=t.ayb02bblkbp4](https://docs.google.com/document/d/1YLjwZ3N0-TAXKzHyn1gYl_gDmXaIfAfqtfW6K-Bpv-M/edit?tab=t.ayb02bblkbp4)
 
-\
-
+<br>
 
 ## Agenda 1.16.25
 
@@ -31,13 +28,11 @@ Transcript: [https://docs.google.com/document/d/1YLjwZ3N0-TAXKzHyn1gYl\_gDmXaIfA
 * Key discussions included the status of governance actions, smart contract work, and the readiness of the hydro voting tool.
 * Key discussions included the status of governance actions, smart contract work, and the readiness of the hydro voting tool.
 
-\
-
+<br>
 
 ## Decisions/Actions
 
-\
-
+<br>
 
 | Topic                                | Discussion                                                                                                                                                                                                                                                                                                                                                                                                                                      | Action Items                                                                                                                                                                                                                                            |
 | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -57,7 +52,6 @@ Transcript: [https://docs.google.com/document/d/1YLjwZ3N0-TAXKzHyn1gYl\_gDmXaIfA
 | Contingency Planning for Voting Tool | If the tool experiences issues, the workshop can proceed without it, as it's for discussion, not decision-making. The preferred method for tool issues is to extend the polling period. This is the first time with new processes and tools, so adaptability is key.                                                                                                                                                                            | N/A                                                                                                                                                                                                                                                     |
 | Vendor Clarification Process         | There is a need for a clear process for vendors to address issues with information presented, to avoid claims of sabotage. The current process involves vendors raising concerns during the workshop itself.                                                                                                                                                                                                                                    | Develop a more formal process for vendor clarifications regarding spreadsheet data.                                                                                                                                                                     |
 
-\
+<br>
 
-
-\
+<br>

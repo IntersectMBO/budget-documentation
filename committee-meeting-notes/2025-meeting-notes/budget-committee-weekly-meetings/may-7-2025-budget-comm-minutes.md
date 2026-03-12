@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name               | Attendance  | Role                              | Voting Seat (Y/N) |
 | ------------------ | ----------- | --------------------------------- | ----------------- |
@@ -50,4 +49,4 @@ Transcript: [https://docs.google.com/document/d/1D7eTEjb84HuNYe4bKfUKdIFnTv7eGCn
 | Centralized Issue Tracking                     | A request was made for a shared document or platform to track open issues and their resolution, facilitating asynchronous collaboration and broader stakeholder input (e.g., CF, larger DREPs).                                                                                                    | Gemma Dakin to share a document for tracking open questions. Lloyd Duhon to explore using ClickUp for committee-wide open issue tracking.                                              |
 | Back Office Deep Dive Session                  | Mark Gorman scheduled a dedicated session on Wednesday to deep dive into back office administration and contracting processes, as the team has many questions requiring feedback.                                                                                                                  | Wednesday session dedicated to back office administration and contracting processes.                                                                                                   |
 
-\
+<br>

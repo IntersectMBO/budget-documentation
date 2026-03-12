@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name               | Role                                  |
 | ------------------ | ------------------------------------- |
@@ -18,11 +17,9 @@
 | Nicolas Cerny      | Observer, Cardano Foundation Staff    |
 | Marc Gorman        | Program Manager Budget Task Force     |
 
-\
+<br>
 
-
-\
-
+<br>
 
 Transcript: [https://docs.google.com/document/d/1Op-eJXXZ9PHOp8e3hOZTiL3rixppEVwyTbzV8yOAGeA/edit?userstoinvite=rajitha.wickramasinghe%40gmail.com\&sharingaction=manageaccess\&role=writer\&tab=t.6er9p2jvdtu0](https://docs.google.com/document/d/1Op-eJXXZ9PHOp8e3hOZTiL3rixppEVwyTbzV8yOAGeA/edit?userstoinvite=rajitha.wickramasinghe%40gmail.com\&sharingaction=manageaccess\&role=writer\&tab=t.6er9p2jvdtu0)
 
@@ -32,13 +29,11 @@ Transcript: [https://docs.google.com/document/d/1Op-eJXXZ9PHOp8e3hOZTiL3rixppEVw
 * Strategy for Budget Info Action and DREP Engagement: Discussion on current voting progress, challenges in DREP participation, the upcoming poll on treasury withdrawal options, and calls for external communication support.
 * Future Process Planning and Committee Operations: Exploration of leveraging existing tools (Catalyst's milestone module), planning for the 2026 retrospective, and updates on the ongoing chair election.
 
-\
-
+<br>
 
 ## Decisions/Actions
 
-\
-
+<br>
 
 | Topic                                                       | Discussion                                                                                                                                                                                                                                                                                                                                                                                                                 | Action Items                                                                                                                                                                                                                                                                                                                 |
 | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -57,4 +52,4 @@ Transcript: [https://docs.google.com/document/d/1Op-eJXXZ9PHOp8e3hOZTiL3rixppEVw
 | Constitutional Argument for Treasury Withdrawal Info Action | Dave Dionisio inquired about a potential constitutional argument for a dedicated treasury withdrawal info action. Jack Briggs explained it exists as a future option but would add confusion and delay this cycle, preferring to proceed with direct withdrawal governance actions after the poll results.                                                                                                                 | <p><br></p>                                                                                                                                                                                                                                                                                                                  |
 | Meeting Wrap-up & Next Steps                                | Lloyd Duhon thanked attendees and noted that policies discussed in Valencia will be reviewed in upcoming catch-up sessions (Wednesday and Friday). The chair application is working, and elections will begin soon.                                                                                                                                                                                                        | Relevant Valencia policies to be prepared for review at Wednesday and Friday catch-up sessions.                                                                                                                                                                                                                              |
 
-\
+<br>

@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name                | Role                                       |
 | ------------------- | ------------------------------------------ |
@@ -15,11 +14,9 @@
 | Nico Cerny          | Observer, Cardano Foundation Staff         |
 | Dave Dionisio       | Board Member, IOG Staff, Budget Task Force |
 
-\
+<br>
 
-
-\
-
+<br>
 
 Transcript:  [https://docs.google.com/document/d/16\_TYYWdkfVLZD8NY-704Ka8r9ohOq2ehG\_fz2NMkuiE/edit?pli=1\&tab=t.1hkexptjng6x](https://docs.google.com/document/d/16_TYYWdkfVLZD8NY-704Ka8r9ohOq2ehG_fz2NMkuiE/edit?pli=1\&tab=t.1hkexptjng6x)
 
@@ -31,13 +28,11 @@ Transcript:  [https://docs.google.com/document/d/16\_TYYWdkfVLZD8NY-704Ka8r9ohOq
 
 \
 \
-\
-
+<br>
 
 ## Decisions/Actions
 
-\
-
+<br>
 
 | Topic                                  | Discussion                                                                                                                                                                                                                                                                                                                                                                                                    | Action Items                                                                                                                                                                                   |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -55,4 +50,4 @@ Transcript:  [https://docs.google.com/document/d/16\_TYYWdkfVLZD8NY-704Ka8r9ohOq
 | Access to Metadata for Review          | The metadata is available, but currently view-only. Committee members need comment access to provide feedback. A request will be sent to Ryan/Duncan to open up commenting, or Lloyd Duhon will act as a conduit for feedback.                                                                                                                                                                                | Lloyd Duhon to message Ryan (cc Duncan) to request enabling comment access for the metadata document or to facilitate feedback collection.                                                     |
 | Communication of Spreadsheet to DREPs  | It was suggested that the spreadsheet used by the committee for reviewing proposals (with links to GovTool) could be adapted and shared with DREPs to help them navigate and assess the governance actions.                                                                                                                                                                                                   | Lloyd Duhon to adapt the review spreadsheet for DREP use and publish it.                                                                                                                       |
 
-\
+<br>

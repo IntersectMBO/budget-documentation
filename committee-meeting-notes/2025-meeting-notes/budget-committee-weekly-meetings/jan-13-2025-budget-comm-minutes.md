@@ -29,8 +29,7 @@ Lloyd Duhon introduced the agenda, focusing on the budget process working group.
 
 ## Civics Budget Meeting Update
 
-Lloyd Duhon provided an update from the civics budget meeting, discussing key points about the relationship between the constitution vote and budget approvals. He clarified that there would be separate votes for each governance action and explained the importance of the Plomin hard fork in enabling treasury actions.\
-
+Lloyd Duhon provided an update from the civics budget meeting, discussing key points about the relationship between the constitution vote and budget approvals. He clarified that there would be separate votes for each governance action and explained the importance of the Plomin hard fork in enabling treasury actions.<br>
 
 ## Communications Plan and Volunteer Sign-ups
 

@@ -18,4 +18,4 @@ Notes Length: Standard
 * Multi-Currency Treasury Discussion Dynamic Strategies also asked about managing treasury distributions in dollars and maintaining part of the treasury in dollars. Lloyd Duhon explained that while distributions in stablecoins are possible, as demonstrated by Chris Kowalsski's proposal for Modus Create, the budget must be denominated in ADA according to the constitution. Charles has mentioned the possibility of a multi-currency treasury on the roadmap for the future.
 * Blog Post Infographics and Next Steps Simo Simovic inquired about the infographics for the blog post. Lloyd Duhon confirmed they would be finalized today and ready for the blog post release, noting a slight delay due to a graphics designer's illness. The meeting concluded with unanimous approval of the motion to release the budget process blog post, and plans were set to discuss the net change limit process and questionnaire format on Wednesday's meeting, along with scheduling X Spaces and AMA sessions for community feedback.
 
-\
+<br>

@@ -47,7 +47,7 @@ Lloyd Duhon walked the committee through the September plan.  JJ requested that 
 
 Lloyd Duhon suggested using a Notion plan for the Budget committee.  Lloyd Duhon and Lawrence Clark will review the tooling.&#x20;
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXerEZcCzBHh90hOs94ZtbFgSTd0OCdFebxLv-mi02DivMcJHyD06ikJIjqDAfhDmwTch17OvWHU9rSkl7Ph4UlFr4t7Z5L7Iukf6vrQEbuY1dpApKev-7A35AeK0cmAVJ8oxNRRfjzPP-hbvLPxeSU9\_pi9?key=V9\_tWKV5Wg6EnzjEyzNCew)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXerEZcCzBHh90hOs94ZtbFgSTd0OCdFebxLv-mi02DivMcJHyD06ikJIjqDAfhDmwTch17OvWHU9rSkl7Ph4UlFr4t7Z5L7Iukf6vrQEbuY1dpApKev-7A35AeK0cmAVJ8oxNRRfjzPP-hbvLPxeSU9_pi9?key=V9_tWKV5Wg6EnzjEyzNCew)
 
 ### **AOB**
 
@@ -58,4 +58,4 @@ Kriss Baird asked that our meeting scheduled for Monday, 9th September, be moved
 JJ asked Intersect to consider setting up or merging a committee focused on the Innovation bucket.  Lawrence Clark confirmed that this had been discussed with Kriss Baird as something Intersect should consider for 2025.
 
 \
-\
+<br>

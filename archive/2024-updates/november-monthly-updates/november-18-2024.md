@@ -79,8 +79,7 @@ Lawrence Clark confirmed that this group was in progress and would continue lead
 
 Lawrence noted that a Tax working group would be required&#x20;
 
-\
-
+<br>
 
 
 

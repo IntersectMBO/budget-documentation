@@ -2,8 +2,7 @@
 
 ## Attendees:&#x20;
 
-\
-
+<br>
 
 | Name               | Attendance  | Role                                                       | Voting Seat (Y/N) |
 | ------------------ | ----------- | ---------------------------------------------------------- | ----------------- |
@@ -13,18 +12,15 @@
 | Mercy              | <p><br></p> | Voting Member, WADA                                        | <p><br></p>       |
 | Prof. Steven       | <p><br></p> | Former Voting Member, Mentor, Chairman of Intersect Board. | <p><br></p>       |
 
-\
+<br>
 
-
-\
-
+<br>
 
 &#x20;
 
 Recording: [https://drive.google.com/file/d/1Y-rgGVcK3bDmEh7hXeeoVXWCqDh-DM4u/view?usp=drive\_link](https://drive.google.com/file/d/1Y-rgGVcK3bDmEh7hXeeoVXWCqDh-DM4u/view?usp=drive_link)
 
-\
-
+<br>
 
 Transcript: [https://docs.google.com/document/d/1i8Gu\_A6YtMKEsh3k66ittwXg-3u9IUjk\_ggApJ6TOF4/edit?tab=t.0#heading=h.o774d4r8g0m5](https://docs.google.com/document/d/1i8Gu_A6YtMKEsh3k66ittwXg-3u9IUjk_ggApJ6TOF4/edit?tab=t.0#heading=h.o774d4r8g0m5)
 
@@ -35,13 +31,11 @@ Transcript: [https://docs.google.com/document/d/1i8Gu\_A6YtMKEsh3k66ittwXg-3u9IU
 * The meeting explored strategic options for the BIA's composition, including whether to combine it with the NCL and if it should exclude proposals not administered by Intersect.
 
 \
-\
-
+<br>
 
 ## Decisions/Actions
 
-\
-
+<br>
 
 | Topic                                 | Discussion                                                                                                                                                                                                                                                                                              | Action Items                                                                                                          |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
