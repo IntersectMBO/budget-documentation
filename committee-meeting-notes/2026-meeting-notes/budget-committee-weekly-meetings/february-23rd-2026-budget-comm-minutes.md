@@ -180,7 +180,7 @@ Lloyd explained the budget planning process:
 
 #### 6.2 Potential Budget Items (Discussion)
 
-**Ecclesiastical Tool Development:**
+**Ekklessia Tool Development:**
 
 * The tool is currently funded by Intersect but is an open-source resource available to the ecosystem.
 * The committee could either continue with Intersect funding or request budget to fund tool development directly, with the same net effect.
