@@ -1,6 +1,12 @@
 # Budget Proposal Submission Template (Download)
 
-### **Overview**
+## **Download the template**
+
+{% file src="../.gitbook/assets/CBC Proposal Submission – Google Form Template (All Stakeholders Version).docx" %}
+
+***
+
+## **Overview**
 
 As part of the Intersect budget process, we are providing a **Budget Proposal Submission Template** to help proposers prepare their submissions in advance.
 
@@ -8,7 +14,19 @@ This template reflects the structure of the Intersect submission flow and includ
 
 ***
 
-#### **What this template includes**
+## **FAQs**
+
+<details>
+
+<summary><strong>Who this is for</strong></summary>
+
+This template is intended for **teams, vendors, and individuals** preparing to submit proposals through the Intersect budget process.
+
+</details>
+
+<details>
+
+<summary><strong>What this template includes</strong></summary>
 
 The template follows the full structure of the Intersect budget proposal form and covers:
 
@@ -21,9 +39,11 @@ The template follows the full structure of the Intersect budget proposal form an
 
 All questions are presented in a narrative format, consistent with what you will see in the application.
 
-***
+</details>
 
-#### **How to use this template**
+<details>
+
+<summary><strong>How to use this template</strong></summary>
 
 We recommend preparing your proposal using this template before accessing the application:
 
@@ -36,16 +56,4 @@ We recommend preparing your proposal using this template before accessing the ap
 4. **Submit through the application**\
    When ready, transfer your responses into the application and complete the submission process.
 
-***
-
-#### **Who this is for**
-
-This template is intended for **teams, vendors, and individuals** preparing to submit proposals through the Intersect budget process.
-
-***
-
-#### **Download the template**
-
-{% file src="../.gitbook/assets/CBC Proposal Submission – Google Form Template (All Stakeholders Version).docx" %}
-
-***
+</details>
