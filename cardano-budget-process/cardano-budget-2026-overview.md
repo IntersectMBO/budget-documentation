@@ -89,7 +89,7 @@ Key improvements include the following:
 *   **Simplified treasury approvals**\
     The framework also simplifies the transition from community review to on-chain governance.
 
-    Proposals that achieve at least 67% support from participating DRep stake during the off-chain voting stage (using Hydra) move forward to Treasury Withdrawal governance actions.
+    Proposals that achieve at least 67% support from participating DRep stake during the Hydra voting stage move forward to Treasury Withdrawal governance actions.
 
     This approach aligns the process with the current constitutional structure while reducing unnecessary voting fatigue.
 
@@ -190,7 +190,7 @@ Community feedback and proposal refinement through the review loop.
 {% step %}
 ### Mid to late May
 
-Off-chain DRep advisory voting through Ekklesia.
+Hydra DRep advisory voting through Ekklesia.
 {% endstep %}
 
 {% step %}
