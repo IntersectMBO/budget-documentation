@@ -101,9 +101,9 @@ Waiting list mechanism - proposals that meet the 67% threshold but can't fit wit
 
 <details>
 
-<summary><strong>What is Ekklesia and why is off-chain voting done first?</strong></summary>
+<summary><strong>What is Ekklesia and why is Hydra voting done first?</strong></summary>
 
-Ekklesia is the platform used for proposal submission, feedback, and DRep advisory polling during Stages 1 and 2. The off-chain polling stage helps prioritise proposals before they reach the blockchain, reducing governance congestion and allowing the community to compare initiatives more easily. Final funding decisions still occur on-chain. DReps vote independently on any TWGAs submitted.
+Ekklesia is the platform used for proposal submission, feedback, and DRep advisory polling during Stages 1 and 2. The hydra polling stage helps prioritise proposals before they reach the blockchain, reducing governance congestion and allowing the community to compare initiatives more easily. Final funding decisions still occur on-chain. DReps vote independently on any TWGAs submitted.
 
 </details>
 
