@@ -8,6 +8,8 @@
 On 4th April 2026 the Governance Info Action titled "_Cardano Budget Process Framework (facilitated by Intersect)_" **passed DRep approval** with super majority
 {% endhint %}
 
+{% embed url="https://drive.google.com/file/d/1Q5RAKuR8CxWxMUDjgUR-nh_nBk74b6GA/view?usp=sharing" %}
+
 Through the Intersect Budget Committee, an [Info Action](https://gov.tools/outcomes/governance_actions/e9693ed6b6465b2b46daaf641486a12b4b2946081634b5967b9d98897b0598fa#0) has been submitted proposing a framework for how the Cardano ecosystem could coordinate a budgeting cycle in 2026.
 
 This action asks DReps a simple question.
