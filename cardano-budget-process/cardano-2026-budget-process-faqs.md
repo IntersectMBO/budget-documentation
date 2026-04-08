@@ -1,10 +1,10 @@
 # Cardano 2026 Budget Process - FAQs
 
 {% hint style="info" %}
-This FAQs are about **this Info Action**  [**"**&#x43;ardano Budget Process Framework (facilitated by Intersect)"](https://gov.tools/governance_actions/e9693ed6b6465b2b46daaf641486a12b4b2946081634b5967b9d98897b0598fa#0)&#x20;
+This FAQs are about the budget process Approved in **this Info Action**  [**"**&#x43;ardano Budget Process Framework (facilitated by Intersect)"](https://gov.tools/governance_actions/e9693ed6b6465b2b46daaf641486a12b4b2946081634b5967b9d98897b0598fa#0)&#x20;
 {% endhint %}
 
-March 2026
+April 2026
 
 _In short: This Info Action does not approve any spending. It asks one question: Should we use this structured framework to run the 2026 budget cycle? Actual spending requires separate on-chain votes by DReps._
 

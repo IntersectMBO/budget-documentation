@@ -4,7 +4,7 @@
 
 ## A proposed framework for community approval&#x20;
 
-{% hint style="info" %}
+{% hint style="success" %}
 On 4th April 2026 the Governance Info Action titled "_Cardano Budget Process Framework (facilitated by Intersect)_" **passed DRep approval** with super majority
 {% endhint %}
 
@@ -220,7 +220,7 @@ This timeline is designed to give proposers, reviewers, and governance participa
 
 ## What DReps are being asked to approve in the [Info action](https://gov.tools/governance_actions/e9693ed6b6465b2b46daaf641486a12b4b2946081634b5967b9d98897b0598fa#0)
 
-{% hint style="info" %}
+{% hint style="success" %}
 On 4th April 2026 the Governance Info Action titled "Cardano Budget Process Framework (facilitated by Intersect)" passed DRep approval with super majority
 {% endhint %}
 
