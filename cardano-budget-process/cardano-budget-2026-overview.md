@@ -2,7 +2,11 @@
 
 <figure><img src="../.gitbook/assets/Milestone updates (32).png" alt=""><figcaption></figcaption></figure>
 
-## A proposed framework for community approval - March 2026
+## A proposed framework for community approval&#x20;
+
+{% hint style="info" %}
+On 4th April 2026 the Governance Info Action titled "_Cardano Budget Process Framework (facilitated by Intersect)_" **passed DRep approval** with super majority
+{% endhint %}
 
 Through the Intersect Budget Committee, an [Info Action](https://gov.tools/outcomes/governance_actions/e9693ed6b6465b2b46daaf641486a12b4b2946081634b5967b9d98897b0598fa#0) has been submitted proposing a framework for how the Cardano ecosystem could coordinate a budgeting cycle in 2026.
 
@@ -215,6 +219,10 @@ Expected first milestone payments for approved initiatives.
 This timeline is designed to give proposers, reviewers, and governance participants clear participation windows throughout the process.
 
 ## What DReps are being asked to approve in the [Info action](https://gov.tools/governance_actions/e9693ed6b6465b2b46daaf641486a12b4b2946081634b5967b9d98897b0598fa#0)
+
+{% hint style="info" %}
+On 4th April 2026 the Governance Info Action titled "Cardano Budget Process Framework (facilitated by Intersect)" passed DRep approval with super majority
+{% endhint %}
 
 This Info Action records the framework used to run an ecosystem budget process, facilitated by Intersect. It does not approve spending and it does not select proposals.
 
