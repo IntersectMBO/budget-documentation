@@ -13,6 +13,7 @@
 * [Cardano Budget 2026 Overview](cardano-budget-process/cardano-budget-2026-overview.md)
 * [Cardano 2026 Budget Process - FAQs](cardano-budget-process/cardano-2026-budget-process-faqs.md)
 * [Budget Proposal Submission Template (Download)](cardano-budget-process/budget-proposal-submission-template-download.md)
+* [Budget Process Timeline](https://docs.intersectmbo.org/intersect-knowledge-base/cardano-facilitation-services/cardano-budget-2026/2026-budget-process-timeline)
 
 ## Committee Meeting Notes
 
