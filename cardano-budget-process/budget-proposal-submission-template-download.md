@@ -2,7 +2,7 @@
 
 ## **Download the template**
 
-{% file src="../.gitbook/assets/CBC Proposal Submission – Google Form Template (All Stakeholders Version).docx" %}
+{% file src="../.gitbook/assets/CBC Proposal Submission – Google Form Template (Final Version).docx" %}
 
 ***
 
