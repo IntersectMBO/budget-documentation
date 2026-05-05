@@ -20,6 +20,7 @@
 
 * [2026 Meeting Notes](committee-meeting-notes/2026-meeting-notes/README.md)
   * [Budget Committee Weekly Meetings](committee-meeting-notes/2026-meeting-notes/budget-committee-weekly-meetings/README.md)
+    * [April 20, 2026 Budget Comm Minutes](committee-meeting-notes/2026-meeting-notes/budget-committee-weekly-meetings/april-20-2026-budget-comm-minutes.md)
     * [April 13, 2026 Budget Comm Minutes](committee-meeting-notes/2026-meeting-notes/budget-committee-weekly-meetings/april-13-2026-budget-comm-minutes.md)
     * [March 30, 2026 Budget Comm Minutes](committee-meeting-notes/2026-meeting-notes/budget-committee-weekly-meetings/march-30-2026-budget-comm-minutes.md)
     * [March 23rd, 2026 Budget Comm Minutes](committee-meeting-notes/2026-meeting-notes/budget-committee-weekly-meetings/march-23rd-2026-budget-comm-minutes.md)
